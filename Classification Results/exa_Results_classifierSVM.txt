@@ -1,0 +1,4525 @@
+Classification results for file: exa_testset_antimlm.txt
+Amount of posts analyzed: 375 
+
+
+ 
+ Post Nr. 1 
+
+another day...another income claim #antimlm #scam #shitworks #incomeclaims #pyramidscheme
+
+ 
+
+ Classification result for Post Nr. 1: 
+0
+non-MLM
+
+ 
+ Post Nr. 2 
+
+ 
+interesting. #scam #pyramidscheme #antimlm  #mlmfail
+
+ 
+
+ Classification result for Post Nr. 2: 
+0
+non-MLM
+
+ 
+ Post Nr. 3 
+
+ 
+thank you to a follower for this monat recruitment message submission. does anyone else have wax in their hair? §face_with_raised_eyebrow§ great response! #scam #antimlm #pyramidscheme #mlmfail
+
+ 
+
+ Classification result for Post Nr. 3: 
+1
+MLM
+
+ 
+ Post Nr. 4 
+
+ 
+thank you to a follower for sending me the product ‘say this not that!’ guidelines from arbonne. i also have the business opportunity guidelines which i’ll share tomorrow. #antimlm #pyramidscheme #mlmfail #scam
+
+ 
+
+ Classification result for Post Nr. 4: 
+1
+MLM
+
+ 
+ Post Nr. 5 
+
+ 
+isn’t it a coincidence that this product is soooo amazing and you sell it too...wow! #scam #antimlm #pyramidscheme #mlmfail
+
+ 
+
+ Classification result for Post Nr. 5: 
+0
+non-MLM
+
+ 
+ Post Nr. 6 
+
+ 
+wow this told her! going door to door at the moment not a good idea either.  what happened to being able to work without leaving your house? taken from #reddit #scam #pyramidscheme #antimlm #mlmfail
+
+ 
+
+ Classification result for Post Nr. 6: 
+0
+non-MLM
+
+ 
+ Post Nr. 7 
+
+ 
+as promised here is the arbonne opportunity ‘say this not that’ document #antimlm #pyramidscheme #mlmfail #scam #antimlmmovement
+
+ 
+
+ Classification result for Post Nr. 7: 
+1
+MLM
+
+ 
+ Post Nr. 8 
+
+ 
+this is the most twisted ad i’ve seen so far! it works please sort your consultants out §exploding_head§ #shitworks #antimlm #pyramidscheme #mlmfail #antimlmmovement
+
+ 
+
+ Classification result for Post Nr. 8: 
+0
+non-MLM
+
+ 
+ Post Nr. 9 
+
+ 
+check out this website sent to me by a follower, it screams income claims & the usual materialistic lifestyle. new wave of entrepreneurs §woman_facepalming:medium-light_skin_tone§. #antimlm #pyramidscheme #mlmfail #antimlmmovement #incomeclaims
+
+ 
+
+ Classification result for Post Nr. 9: 
+0
+non-MLM
+
+ 
+ Post Nr. 10 
+
+ 
+holy crap that’s the biggest inventory i’ve ever seen young living §face_screaming_in_fear§ #antimlm #pyramidscheme #mlmfail #scam
+
+ 
+
+ Classification result for Post Nr. 10: 
+0
+non-MLM
+
+ 
+ Post Nr. 11 
+
+ 
+thank you to 2 followers for sending me this. champagne in one hand, hose in the other, umm classy. this is how we celebrate during a pandemic. will you be going to your free trip in october though or do you think the world revolves around arbonne? #antimlm #pyramidscheme #scam #mlmfail #incomeclaims #antimlmmovement
+
+ 
+
+ Classification result for Post Nr. 11: 
+1
+MLM
+
+ 
+ Post Nr. 12 
+
+ 
+happy saturday...bit of weekend humour...this is hilarious,taken from #reddit §face_with_tears_of_joy§ #mlmfail #antimlm #pyramidscheme #scam #antimlmmovement
+
+ 
+
+ Classification result for Post Nr. 12: 
+0
+non-MLM
+
+ 
+ Post Nr. 13 
+
+ 
+please don’t put essential oils in your recipes, how about using real lemons? §lemon§§lemon§#antimlm #scam #pyramidscheme #mlmfail
+
+ 
+
+ Classification result for Post Nr. 13: 
+0
+non-MLM
+
+ 
+ Post Nr. 14 
+
+ 
+so a bit about me, why i joined arbonne & the shocking diet culture. i thought arbonne could fix the 3 things i was discontented with, my weight, my bank account & my social circle. 
+on training calls the nvps would tell consultants to commit to the plan for 90 days, with no cheating & have a transformation so they can promote the business. it felt like body shaming to me & an unhealthy diet culture. i got down to 125lbs & after ‘relentless encouragement’ from uplines i shared my before & after pictures online but those ended up being used by them to promote their  businesses. if i bumped into someone i hadn’t seen for a while i noticed them looking me up & down, i felt like my body was being scrutinised & like i had to keep my weight down for my business...talk about putting pressure on myself! so i ended up doing the 30 day plan for over a year & basically used any income i made to pay for my products (be a product of the product). you only fail if you quit & nobody wants to fail right? well in the end i quit before i failed, i realised i don’t like kissing people’s asses just for a sale, being fake & hassling people, ciao...adios...goodbye! #dietculture #antimlm #mlmfail #antimlmmovement #scam #pyramidscheme #toxicpositivity #iweigh
+
+ 
+
+ Classification result for Post Nr. 14: 
+1
+MLM
+
+ 
+ Post Nr. 15 
+
+ 
+thank you to a follower for sending this. another recruitment tactic, using celebrities as examples. i don’t know if it’s just me but i’ve noticed that celebrities sign up for a short amount of time then drop out, has anyone else noticed this or am i imagining it? #antimlm #pyramidscheme #scam #antimlmmovement
+
+ 
+
+ Classification result for Post Nr. 15: 
+0
+non-MLM
+
+ 
+ Post Nr. 16 
+
+ 
+just started watching ‘ little fires everywhere’ this weekend. i’ll be looking out for this scene §fire§§face_with_tears_of_joy§ #reddit #antimlm #scam #antimlmmovement #pyramidscheme
+
+ 
+
+ Classification result for Post Nr. 16: 
+0
+non-MLM
+
+ 
+ Post Nr. 17 
+
+ 
+thank you to a follower for sending me this. this bonbabe has her sons’ lives mapped out & thinks bonbabe’s make the best wives §woman_facepalming:medium-light_skin_tone§...umm ok. also, don’t spend too much time with her as she’s warned you she might brainwash you §flushed_face§ #antimlm #antimlmmovement #scam  #pyramidscheme #mlmfail
+
+ 
+
+ Classification result for Post Nr. 17: 
+0
+non-MLM
+
+ 
+ Post Nr. 18 
+
+ 
+interesting story on #reddit. bet these car show rooms get fed up of huns taking cars out for test drives & are clearly never going to buy them #scam #antimlm  #antimlmmovement #pyramidscheme #mlmfail
+
+ 
+
+ Classification result for Post Nr. 18: 
+0
+non-MLM
+
+ 
+ Post Nr. 19 
+
+ 
+this is gold @kyliedennison. i avoided arbonne’s power hour as it was at 5am & i need my sleep & who the hell sends messages at that time anyway. the basis of this training is the same as arbonne although it was done in a nicer way (still manipulative though) without the swearing, they used upbeat music & love bombing. this is just plain abusive bullying and needs to be reported. @beachbody are you going to address or ignore this? we are waiting & i’m sure your consultants need to know if this is how the business operates. #antimlm #mlmfail #pyramidscheme #scam #antimlmmovement
+
+ 
+
+ Classification result for Post Nr. 19: 
+1
+MLM
+
+ 
+ Post Nr. 20 
+
+ 
+thank you to a follower for sending me this. so, if anyone speaks out against mlm’s or is worried about a loved one joining they are ‘small minded’ & ‘village idiots’. this arbonne consultant also runs ‘bossbabe’ training which she charges hundreds for on the side to con people out of even more $$ #scam #antimlm #antimlmmovement #mlmfail #pyramidscheme
+
+ 
+
+ Classification result for Post Nr. 20: 
+1
+MLM
+
+ 
+ Post Nr. 21 
+
+ 
+arbonne has their summer training on saturday which you pay £30 to register. by registering you get access to a special product promotion which you also have to pay for. how is this a perk of registering, they are trying to make you feel like you have a special deal so that you can pay for this extra product on top of your training. this promotion is only for consultants...you are the customers!!! #scam #antimlm #mlmfail #antimlmmovement #pyramidscheme
+
+ 
+
+ Classification result for Post Nr. 21: 
+1
+MLM
+
+ 
+ Post Nr. 22 
+
+ 
+this lady was right the first time...such a shame she’s being sucked back into another mlm, she’ll have to learn the lesson all over again. #reddit #scam #antimlm #antimlmmovement #pyramidscheme #mlmfail
+
+ 
+
+ Classification result for Post Nr. 22: 
+0
+non-MLM
+
+ 
+ Post Nr. 23 
+
+ 
+§face_with_rolling_eyes§ #scam #antimlm #antimlmmovement #mlmfail #pyramidscheme
+
+ 
+
+ Classification result for Post Nr. 23: 
+0
+non-MLM
+
+ 
+ Post Nr. 24 
+
+ 
+yes give it up! §grimacing_face§ #reddit #pyramidscheme #antimlm #antimlmmovement #scam #mlmfail
+
+ 
+
+ Classification result for Post Nr. 24: 
+0
+non-MLM
+
+ 
+ Post Nr. 25 
+
+ 
+take a hint love...they don’t want to join your team! i thought @themlmbossbabe post went perfectly with this. #antimlm #pyramidscheme #antimlmmovement #scam #mlmfail
+
+ 
+
+ Classification result for Post Nr. 25: 
+0
+non-MLM
+
+ 
+ Post Nr. 26 
+
+ 
+huffpost covering mlm’s & the pandemic. #antimlm #scam #antimlmmovement #mlmfail #pyramidscheme #americansagainstmlm
+
+ 
+
+ Classification result for Post Nr. 26: 
+0
+non-MLM
+
+ 
+ Post Nr. 27 
+
+ 
+arbonne consultants, have you not realised yet that you are the customers? you purchase the most products, more than any of your clients, bet your upline loves you. #scam #antimlm #mlmfail #antimlmmovement #pyramidscheme
+
+ 
+
+ Classification result for Post Nr. 27: 
+1
+MLM
+
+ 
+ Post Nr. 28 
+
+ 
+we understand the business better than you think. thank you to a follower.#antimlm #pyramidscheme #scam #mlmfail #antimlmmovement
+
+ 
+
+ Classification result for Post Nr. 28: 
+0
+non-MLM
+
+ 
+ Post Nr. 29 
+
+ 
+#antimlm #scam #antimlmmovement #behappy #pyramidscheme #mlmfail
+
+ 
+
+ Classification result for Post Nr. 29: 
+0
+non-MLM
+
+ 
+ Post Nr. 30 
+
+ 
+i’m speachless, how can someone create a charity scam from the horrific suffering of people? lowest of the low. #scam #antimlm #antimlmmovement #pyramidscheme #charityscam #mlmfail #reddit
+
+ 
+
+ Classification result for Post Nr. 30: 
+0
+non-MLM
+
+ 
+ Post Nr. 31 
+
+ 
+§prohibited§trigger warning§prohibited§ a follower sent me this  from twitter & to be honest i wasn’t sure whether to post it on here as it’s above my tolerance level of people’s behaviour (calling people animals to start with!). i decided to share the info & let you make your own mind up. the last 2 pictures are of this same arbonne rep showing income claims in the form of the usual white mercedes...this needs to be reported. #antimlm #antimlmmovement #antiracism #scam #pyramidscheme
+
+ 
+
+ Classification result for Post Nr. 31: 
+1
+MLM
+
+ 
+ Post Nr. 32 
+
+ 
+§prohibited§trigger warning§prohibited§ a follower sent me this  from twitter & to be honest i wasn’t sure whether to post it on here as it’s above my tolerance level of people’s behaviour (calling people animals to start with!). i decided to share the info & let you make your own mind up. the last 2 pictures are of this same arbonne rep showing income claims in the form of the usual white mercedes...this needs to be reported. #antimlm #antimlmmovement #antiracism #scam #pyramidscheme
+
+ 
+
+ Classification result for Post Nr. 32: 
+1
+MLM
+
+ 
+ Post Nr. 33 
+
+ 
+holy crap, this monat hun changed her tune pretty quick! #mlmfail #antimlm #pyramidscheme #antimlmmovement #scam #reddit
+
+ 
+
+ Classification result for Post Nr. 33: 
+1
+MLM
+
+ 
+ Post Nr. 34 
+
+ 
+holy crap, this monat hun changed her tune pretty quick! #mlmfail #antimlm #pyramidscheme #antimlmmovement #scam #reddit
+
+ 
+
+ Classification result for Post Nr. 34: 
+1
+MLM
+
+ 
+ Post Nr. 35 
+
+ 
+#blackouttuesday
+
+ 
+
+ Classification result for Post Nr. 35: 
+0
+non-MLM
+
+ 
+ Post Nr. 36 
+
+ 
+i know i said i wouldn’t post on #blackouttuesday but this has disgusted me...@monatofficial what is happening? a black out tuesday sale, are you kidding me? #antimlm #antimlmmovement #scam #pyramidscheme #mlmfail #reddit
+
+ 
+
+ Classification result for Post Nr. 36: 
+1
+MLM
+
+ 
+ Post Nr. 37 
+
+ 
+another one @rodanandfields §pouting_face§ #antimlm #antimlmmovement #scam #pyramidscheme #mlmfail #reddit
+
+ 
+
+ Classification result for Post Nr. 37: 
+0
+non-MLM
+
+ 
+ Post Nr. 38 
+
+ 
+no...@beachbody this is not ok!!! §pouting_face§ #antimlm #antimlmmovement #scam #pyramidscheme #mlmfail #reddit
+
+ 
+
+ Classification result for Post Nr. 38: 
+0
+non-MLM
+
+ 
+ Post Nr. 39 
+
+ 
+thank you to a follower for sending me this from a private nvp group. #pyramidscheme #antimlm #antimlmmovement
+
+ 
+
+ Classification result for Post Nr. 39: 
+0
+non-MLM
+
+ 
+ Post Nr. 40 
+
+ 
+thank you to a follower for sending me this from a private nvp group. #pyramidscheme #antimlm #antimlmmovement
+
+ 
+
+ Classification result for Post Nr. 40: 
+0
+non-MLM
+
+ 
+ Post Nr. 41 
+
+ 
+massive income claims from a top arbonne consultant, makes it sound like the perfect job...if it were true. if you’d like to report please dm me & feel free to share. #scam #pyramidscheme #antimlm #antimlmmovement #mlmfail
+
+ 
+
+ Classification result for Post Nr. 41: 
+1
+MLM
+
+ 
+ Post Nr. 42 
+
+ 
+body shaming and trying to profit off the pandemic. plus losing 15lb in 8 days is not healthy! #dietculture #reddit #mlmfail #antimlm #antimlmmovement #pyramidscheme #scam
+
+ 
+
+ Classification result for Post Nr. 42: 
+1
+MLM
+
+ 
+ Post Nr. 43 
+
+ 
+arbonne regional vice president’s monthly income statement shows that they did not make any sales themselves. all profit was from their downline in their mlm aka pyramid scheme. they are required to have 150 personal volume minimum to receive income every month so not sure what happened here. #scam #reddit #pyramidscheme #antimlm #antimlmmovement
+
+ 
+
+ Classification result for Post Nr. 43: 
+1
+MLM
+
+ 
+ Post Nr. 44 
+
+ 
+does anyone else find this a bit creepy, like an alter at a cult gathering §thinking_face§#scam #antimlm #antimlmmovement #mlmfail #pyramidscheme #reddit
+
+ 
+
+ Classification result for Post Nr. 44: 
+0
+non-MLM
+
+ 
+ Post Nr. 45 
+
+ 
+round 2 of ftc issuing warning letters sent today to mlm’s. keep reporting everyone §clapping_hands:light_skin_tone§ #scam #antimlm #antimlmmovement #mlmfail #pyramidscheme
+
+ 
+
+ Classification result for Post Nr. 45: 
+0
+non-MLM
+
+ 
+ Post Nr. 46 
+
+ 
+never thought of cheese day being a selling point for nail wraps §face_with_tears_of_joy§ #antimlm #mlmfail #pyramidscheme #antimlmmovement
+
+ 
+
+ Classification result for Post Nr. 46: 
+0
+non-MLM
+
+ 
+ Post Nr. 47 
+
+ 
+why? just eat some veggies & fruit. taking pills instead of enjoying real healthy food does not teach you to live a sustainable healthy lifestyle. #scam #pyramidscheme #antimlm #antimlmmovement #mlmfail
+
+ 
+
+ Classification result for Post Nr. 47: 
+1
+MLM
+
+ 
+ Post Nr. 48 
+
+ 
+@marykayuk i have nothing i can say...this post speaks for itself.
+
+ 
+
+ Classification result for Post Nr. 48: 
+0
+non-MLM
+
+ 
+ Post Nr. 49 
+
+ 
+$119,000 bonus! wow #scam #antimlm #antimlmmovement #pyramidscheme #mlmfail #reddit
+
+ 
+
+ Classification result for Post Nr. 49: 
+0
+non-MLM
+
+ 
+ Post Nr. 50 
+
+ 
+§collision§ last year for ‘1 month only’ arbonne was an official pyramid scheme. here’s the flyer promoting this special incentive. #scam #pyramidscheme #antimlm #antimlmmovement #mlmfail
+
+ 
+
+ Classification result for Post Nr. 50: 
+1
+MLM
+
+ 
+ Post Nr. 51 
+
+ 
+these fake charity scams make me so angry. arbonne warned against these for covid/frontline workers, do they not realise this is for blm movement too?! wonderful if you’d like to donate to any of these causes but please donate to a registered charity not to a scam where only a small percentage of your money (if any) goes to the cause. #scam #charityscam #pyramidscheme #antimlm #antimlmmovement #mlmfail #reddit
+
+ 
+
+ Classification result for Post Nr. 51: 
+1
+MLM
+
+ 
+ Post Nr. 52 
+
+ 
+somebody’s been brainwashed #pyramidscheme #scam #antimlm #antimlmmovement #reddit
+
+ 
+
+ Classification result for Post Nr. 52: 
+0
+non-MLM
+
+ 
+ Post Nr. 53 
+
+ 
+oh no, another mlm collab §see-no-evil_monkey§#shitworks #antimlm #antimlmmovement #pyramidscheme #scam #mlmfail #reddit
+
+ 
+
+ Classification result for Post Nr. 53: 
+0
+non-MLM
+
+ 
+ Post Nr. 54 
+
+ 
+is this avon rep trying to recruit help shifting the shit load of product she bought last month to allow herself to promote to the next rank? §thinking_face§ if she’s trying to recruit for her downline then this isn’t a great picture...admitting the inventory she carries...hope she’s got a big garage. #pyramidscheme #mlmfail #antimlm #antimlmmovement #scam #reddit
+
+ 
+
+ Classification result for Post Nr. 54: 
+0
+non-MLM
+
+ 
+ Post Nr. 55 
+
+ 
+the ‘you can work from anywhere’ line. yes karen you are working but are you earning more than $14.50 a month? #scam #reddit #antimlm #antimlmmovement #mlmfail
+
+ 
+
+ Classification result for Post Nr. 55: 
+1
+MLM
+
+ 
+ Post Nr. 56 
+
+ 
+#reddit #antimlm #antimlmmovement #scam #pyramidscheme #mlmfail
+
+ 
+
+ Classification result for Post Nr. 56: 
+0
+non-MLM
+
+ 
+ Post Nr. 57 
+
+ 
+§clapping_hands:light_skin_tone§ #antimlm #scam #antimlmmovement #pyramidscheme #mlmfail
+
+ 
+
+ Classification result for Post Nr. 57: 
+0
+non-MLM
+
+ 
+ Post Nr. 58 
+
+ 
+this is hard for me to post as i have a snake phobia but to be honest i think i’m more scared of the hey-hun message §snake§§face_screaming_in_fear§ #reddit #antimlm #antimlmmovement #scam #pyramidscheme #mlmfail
+
+ 
+
+ Classification result for Post Nr. 58: 
+0
+non-MLM
+
+ 
+ Post Nr. 59 
+
+ 
+not sure what the worst thing is about this post, i feel so sorry for this lady experiencing a mis-carriage & feeling the need to totally detox her body...maybe this helped her deal. but to sell beachbody off the back of this is pretty shocking & losing 12lb in 3 days is not possible...you cannot lose that in fat, it would mostly be water & is not sustainable. #reddit #scam #antimlm #antimlmmovement  #mlmfail
+
+ 
+
+ Classification result for Post Nr. 59: 
+1
+MLM
+
+ 
+ Post Nr. 60 
+
+ 
+to celebrate reaching 700 followers (thank you so much for helping me spread awareness on the damage mlm’s do) i promised to share a personal post . you voted for ‘upline pressure’ so here it is...pressuring me into buying products to rank up & the other fomo recruiting pressure. #antimlm #antimlmmovement #pyramidscheme #mlmfail #scam
+
+ 
+
+ Classification result for Post Nr. 60: 
+0
+non-MLM
+
+ 
+ Post Nr. 61 
+
+ 
+umm, excuse me what?! #antimlm #scam #antimlmmovement #pyramidscheme #mlmfail #reddit
+
+ 
+
+ Classification result for Post Nr. 61: 
+0
+non-MLM
+
+ 
+ Post Nr. 62 
+
+ 
+yes you are annoying & your friends need to find a new friend!  seriously though, the brainwashing is real, your friends are not obligated to buy products from you or join your team just because they’re your friends. #antimlm #antimlmmovement #reddit #shitworks #mlmfail #scam #pyramidscheme
+
+ 
+
+ Classification result for Post Nr. 62: 
+1
+MLM
+
+ 
+ Post Nr. 63 
+
+ 
+further to my post yesterday, the tori belle consultant was correct, you can sign up your 14-17 year olds as consultants. thank you @smallantimlmangel for finding this. #scam #pyramidscheme #mlmfail #antimlm #antimlmmovement
+
+ 
+
+ Classification result for Post Nr. 63: 
+0
+non-MLM
+
+ 
+ Post Nr. 64 
+
+ 
+this arbonne rvp (soon to be nvp) is posing in front of luis vuitton, showing off how she has the cash to spend. this is an income claim & putting a disclosure statement on all your posts doesn’t make it ok. the second post is so obnoxious, anyone not in a #pyramidscheme & doesn’t agree with you is broke & unhappy right? #scam #antimlm #antimlmmovement #mlmfail
+
+ 
+
+ Classification result for Post Nr. 64: 
+0
+non-MLM
+
+ 
+ Post Nr. 65 
+
+ 
+not cool @monatofficial #reddit #antimlm #antimlmmovement #mlmfail #scam #pyramidscheme
+
+ 
+
+ Classification result for Post Nr. 65: 
+1
+MLM
+
+ 
+ Post Nr. 66 
+
+ 
+so, had to go to the emergency room this morning with my daughter (she’s fine now but need to sort out an ongoing health issue going forward) & there was a nuskin hand cream on the nurses desk, no doubt from one of those local help the frontlines workers fundraiser scams. §weary_face§ i would have taken a photo but i left my phone at home as i was in a rush. bet it’s the same hun from my area that has tried to friend me on facebook & insta in the last week trying to sell me her crappy lumiskin! argh §see-no-evil_monkey§#scam #antimlm #mlmfail #pyramidscheme #antimlmmovement #charityscam
+
+ 
+
+ Classification result for Post Nr. 66: 
+0
+non-MLM
+
+ 
+ Post Nr. 67 
+
+ 
+thank you for all your votes...check out my story to see them all...the winner (or shall we say loser!) was arbonne §party_popper§§clapping_hands:light_skin_tone§ #antimlm #scam #pyramidscheme #antimlmmovement #mlmfail
+
+ 
+
+ Classification result for Post Nr. 67: 
+1
+MLM
+
+ 
+ Post Nr. 68 
+
+ 
+so...@sephora is collaborating with beauty counter...not only are the #antimlm community disgusted...the consultants aren’t happy either! their clients can now go to sephora to buy their products. some consultant say it will help their business as people will be introduced to the brand and love it then have to find a consultant to buy it from...i for one am not convinced. so for the beauty counter consultants that are not happy, i thought you were ceo of your own business? where’s your power to overturn this collaboration? i guess your amazing #pyramidscheme can crap on you from a great height! #scam #antimlmmovement #mlmfail
+
+ 
+
+ Classification result for Post Nr. 68: 
+1
+MLM
+
+ 
+ Post Nr. 69 
+
+ 
+this mentality makes me so angry! #scam #antimlm #antimlmmovement #pyramidscheme #mlmfail
+
+ 
+
+ Classification result for Post Nr. 69: 
+0
+non-MLM
+
+ 
+ Post Nr. 70 
+
+ 
+rodent & fields launching in japan! §see-no-evil_monkey§ #scam #antimlm #antimlmmovement #pyramidscheme #mlmfail #reddit
+
+ 
+
+ Classification result for Post Nr. 70: 
+0
+non-MLM
+
+ 
+ Post Nr. 71 
+
+ 
+let’s put a different spin on this...what would you tell your past self (or a friend) when you were just about to sign up for a mlm? #antimlm #pyramidscheme #antimlmmovement #mlmfail #scam #lettertomyself
+
+ 
+
+ Classification result for Post Nr. 71: 
+0
+non-MLM
+
+ 
+ Post Nr. 72 
+
+ 
+arbonne hun comparing consultants to @kimkardashian have a look at my story for more wise words from this bossbabe. she also runs a scam within a scam, learn how to be a bossbabe for £298! #scam #pyramidscheme #antimlm #antimlmmovement #mlmfail
+
+ 
+
+ Classification result for Post Nr. 72: 
+1
+MLM
+
+ 
+ Post Nr. 73 
+
+ 
+be a product of the product! §grimacing_face§. @charlottenaomi3 breaks down some of the costs involved in her video today...absolutely amazing video...go watch! the mint choc chip protein powder appears in both of these videos and the only way to receive this was to spend $299 on 2 ‘ i want it all’ packs when the new products launched at gtc...so that’s a whole load of cash! §money_bag§§money_bag§ as charlotte says the consultants are the best customers! #scam #pyramidscheme #antimlm #mlmfail #antimlmmovement
+
+ 
+
+ Classification result for Post Nr. 73: 
+0
+non-MLM
+
+ 
+ Post Nr. 74 
+
+ 
+an invite to an area manager facebook bootcamp group sent to me by my upline. the group included messaging 10 people a day, (even those you felt uncomfortable about) booking at least 3 1:2:1’s a week & recording your own ‘discover arbonne’ video to send to people. there was also tips, tricks & motivational facebook lives. if you didn’t follow the instructions you were deleted off the group & branded a failure. #scam #antimlm #antimlmmovement #pyramidscheme #mlmfail
+
+ 
+
+ Classification result for Post Nr. 74: 
+1
+MLM
+
+ 
+ Post Nr. 75 
+
+ 
+plexus for kids! #scam #pyramidscheme #antimlm #mlmfail #antimlmmovement
+
+ 
+
+ Classification result for Post Nr. 75: 
+0
+non-MLM
+
+ 
+ Post Nr. 76 
+
+ 
+an arbonne consultant putting a positive spin on having a downline. love bombing makes you feel part of a tribe, a sisterhood & friends forever club. but, what happens when you leave or you can’t keep that personal volume up? #pyramidscheme #mlmfail #antimlm #antimlmmovement #scam #fakefriends
+
+ 
+
+ Classification result for Post Nr. 76: 
+1
+MLM
+
+ 
+ Post Nr. 77 
+
+ 
+a disappointed arbonne customer. #antimlm #pyramidscheme #scam #mlmfail #antimlmmovement
+
+ 
+
+ Classification result for Post Nr. 77: 
+1
+MLM
+
+ 
+ Post Nr. 78 
+
+ 
+monat income claims, it’s not a free car! §exploding_head§ #antimlm #incomeclaims #mlmfail #antimlmmovement #pyramidscheme #reddit #scam
+
+ 
+
+ Classification result for Post Nr. 78: 
+1
+MLM
+
+ 
+ Post Nr. 79 
+
+ 
+ok, this nvp is comparing the percentage of people with reach the top of arbonne against getting a phd. ok hun §face_with_rolling_eyes§#scam #antimlm #antimlmmovement #pyramidscheme #mlmfail
+
+ 
+
+ Classification result for Post Nr. 79: 
+0
+non-MLM
+
+ 
+ Post Nr. 80 
+
+ 
+arbonne vp calling out the haters...they seriously think it’s funny that #antimlmmovement  is trying to protect people from their predatory behaviour...oh yes & we’re boring & mean #scam #antimlm #mlmfail #pyramidscheme #toxicpositivity
+
+ 
+
+ Classification result for Post Nr. 80: 
+0
+non-MLM
+
+ 
+ Post Nr. 81 
+
+ 
+when you think someone friended you on insta but they just want to sell you mlm crap...blocked! §pile_of_poo§ #scam #pyramidscheme #mlmfail #antimlm #antimlmmovement
+
+ 
+
+ Classification result for Post Nr. 81: 
+0
+non-MLM
+
+ 
+ Post Nr. 82 
+
+ 
+have i found a new mlm? §peach§ lean peach drink. team grit...has anyone heard of it?  #antimlm
+
+ 
+
+ Classification result for Post Nr. 82: 
+0
+non-MLM
+
+ 
+ Post Nr. 83 
+
+ 
+warning...rant & lots of ‘air quotes’. some consultants are still advertising this brightening range (did they not get the memo because i did & i’m not even an active consultant anymore §woman_shrugging:medium-light_skin_tone§) but it has been pulled off the market due to ‘some ingredients not being as pure as we thought, but don’t worry they are not harmful’ §woman_facepalming:medium-light_skin_tone§ so, the consultants have bought this range ‘because you can’t sell it if you haven’t tried it’ then arbonne pull the plug on the product so you can’t sell it anyway. now...if it was really your ‘own business’ wouldn’t you have some control of the product quality in the first place?! #antimlm #scam #antimlmmovement #pyramidscheme  #mlmfail
+
+ 
+
+ Classification result for Post Nr. 83: 
+1
+MLM
+
+ 
+ Post Nr. 84 
+
+ 
+2 different consultants having to defend arbonne...have you read the income statement hun? #scam #antimlm #pyramidscheme #antimlmmovement
+
+ 
+
+ Classification result for Post Nr. 84: 
+1
+MLM
+
+ 
+ Post Nr. 85 
+
+ 
+arbonne consultants love to inform you that all products other than arbonne are toxic, this is scare mongering & completely false advertising. also, better price...um i don’t think so. how is using arbonne better for the environment?  they have got packaging just like every other product & they encourage product loading. the list on the 2nd slide ‘do you wash your face?’, etc & the strategically placed comment ‘making sure your baby is clean’ is just a little bit obnoxious. #scam #antimlm #antimlmmovement #pyramidscheme #mlmfail #toxicproducts
+
+ 
+
+ Classification result for Post Nr. 85: 
+1
+MLM
+
+ 
+ Post Nr. 86 
+
+ 
+you will never be the ceo of your own mlm business. meet the real ceo’s of your mlm. these men head a business that pretend to empower women when really they are encouraging women to scam other women & teach others to do the same...then get worshipped for it along with the top earners in the company. #scam #antimlm #antimlmmovement #mlmfail #reddit  #pyramidscheme
+
+ 
+
+ Classification result for Post Nr. 86: 
+1
+MLM
+
+ 
+ Post Nr. 87 
+
+ 
+product loading....this consultant is a district manager which is only the 1st level of arbonne...the amount of products in this drawer would have definitely contributed to the promotion, i’d like to see her bathroom cabinet too. district manager level is a trap, you must get 2,500 qv per month to maintain the rank otherwise you lose most of your commission. #scam #pyramidscheme #antimlm #antimlmmovememt #mlmfail
+
+ 
+
+ Classification result for Post Nr. 87: 
+1
+MLM
+
+ 
+ Post Nr. 88 
+
+ 
+as promised....here it is, i’m being brave. i’m showing you one of my most embarrassing moments...my recruitment post! be kind...i was keen, just starting out as a new consultant & didn’t know what i was talking about. can’t believe i used a richard branson quote & a girl boss hashtag! §woman_facepalming:medium-light_skin_tone§. arbonne for me was a journey/experience that i had to go through to come out the other end a bit more clued up. #scam #antimlm #antimlmmovement #mlmfail #pyramidscheme
+
+ 
+
+ Classification result for Post Nr. 88: 
+1
+MLM
+
+ 
+ Post Nr. 89 
+
+ 
+same old argument #scam #pyramidscheme #antimlmmovement #antimlm #mlmfail #reddit
+
+ 
+
+ Classification result for Post Nr. 89: 
+0
+non-MLM
+
+ 
+ Post Nr. 90 
+
+ 
+hyped up, limited edition watermelon fizz sticks launched today! the consultants get so excited they are conned into ordering multiple boxes before it runs out... this is encouraged by arbonne as you can see from this post ‘seedless but not endless’ ‘limited time only!’ & ‘while stocks last’ #scam #pyramidscheme #antimlm #antimlmmovement
+
+ 
+
+ Classification result for Post Nr. 90: 
+1
+MLM
+
+ 
+ Post Nr. 91 
+
+ 
+go watch this on youtube...really well made. you know what... i thought this was going to make me laugh & some of it did but i actually felt a bit uncomfortable watching it as it’s a bit too real. a lot of consultants, live & breath their mlm & are not ashamed of shouting it from the rooftops. they become a product of the products & pass down the brainwashing like their life depends on it. please let me know what you think. #scam #pyramidscheme #mlmfail #antimlm #antimlmmovement
+
+ 
+
+ Classification result for Post Nr. 91: 
+0
+non-MLM
+
+ 
+ Post Nr. 92 
+
+ 
+nice friendly pep talk from an arbonne nvp trying to entice people to join her downline...umm no §clapping_hands:light_skin_tone§thanks §clapping_hands:light_skin_tone§ hun. #scam #antimlm #antimlmmovement #pyramidscheme #mlmfail
+
+ 
+
+ Classification result for Post Nr. 92: 
+1
+MLM
+
+ 
+ Post Nr. 93 
+
+ 
+nice friendly pep talk from an arbonne nvp trying to entice people to join her downline...umm no §clapping_hands:light_skin_tone§thanks §clapping_hands:light_skin_tone§ hun. #scam #antimlm #antimlmmovement #pyramidscheme #mlmfail
+
+ 
+
+ Classification result for Post Nr. 93: 
+1
+MLM
+
+ 
+ Post Nr. 94 
+
+ 
+so it’s your fault you got into debt...not arbonne’s & not your uplines’ .  ok so you were the one that placed the order right?! i’ve witnessed a top nvp advising that if you are serious about your business you should purchase a business pack (approx $1300) & arbonnize your home. you should use the skincare & do the 30 day plan minimum. you can’t sell what you haven’t tried yourself & you should be a product of the product. so i do not agree with this arbonne consultant. #scam #antimlm #antimlmmovement #pyramidscheme #mlmfail
+
+ 
+
+ Classification result for Post Nr. 94: 
+1
+MLM
+
+ 
+ Post Nr. 95 
+
+ 
+thank you to a follower for sending me this. this is completely fake & mis-leading as well as being a health claim. this person has been in the arbonne business for 6 years & is a nvp trying to ‘help’ boost her downlines sales. #scam #pyramidscheme #antimlm #antimlmmovement #mlmfail #falsehealthclaims
+
+ 
+
+ Classification result for Post Nr. 95: 
+1
+MLM
+
+ 
+ Post Nr. 96 
+
+ 
+there’s lots of ‘ entrepreneurs’ selling advice/training on how to be successful in your network marketing business. the type of person that would pay for these courses (which can cost hundreds of dollars/pounds) are usually already struggling with their mlm & are losing money. these teachers have quite often been in mlm’s themselves, so i guess taking advantage of people comes natural to them. #scam #antimlm #antimlmmovement #pyramidscheme #mlmfail
+
+ 
+
+ Classification result for Post Nr. 96: 
+0
+non-MLM
+
+ 
+ Post Nr. 97 
+
+ 
+mlm uplines provide you with a list of prepared replies for objections...these 3 are just something else.... #reddit #antimlm #scam #mlmfail #antimlmmovement #pyramidscheme
+
+ 
+
+ Classification result for Post Nr. 97: 
+0
+non-MLM
+
+ 
+ Post Nr. 98 
+
+ 
+sorry...i know i’ve posted too many times today but i keep coming across these dumbass posts! §exploding_head§ just because you get a % return as commission on your own sales...you are still spending money...ie you are the customer! #scam #antimlm #antimlmmovement #pyramidscheme #reddit #mlmfail
+
+ 
+
+ Classification result for Post Nr. 98: 
+1
+MLM
+
+ 
+ Post Nr. 99 
+
+ 
+just a few income claims arbonne #incomeclaims #scam #mlmfail #antimlm #antimlmmovement #pyramidscheme
+
+ 
+
+ Classification result for Post Nr. 99: 
+1
+MLM
+
+ 
+ Post Nr. 100 
+
+ 
+anyone else sick of these adverts or people advertising for a ‘friend’? §woman_raising_hand:medium-light_skin_tone§ #shitworks #scam #pyramidscheme #antimlm #antimlmmovement #mlmfail
+
+ 
+
+ Classification result for Post Nr. 100: 
+0
+non-MLM
+
+ 
+ Post Nr. 101 
+
+ 
+just watching @kimbyrleigha ‘s recent live chat video...she goes into how consultants are liable for their actions & can be sued directly. here is info on a case @mlm_busters shared which proves this definitely to be the case. the consultants were sued in this case! watch out consultants...is this company really worth your time & energy & money? #scam #mlmfail #antimlm #antimlmmovement #pyramidscheme
+
+ 
+
+ Classification result for Post Nr. 101: 
+0
+non-MLM
+
+ 
+ Post Nr. 102 
+
+ 
+the customers (cough cough i mean consultants) in the u.k. bought up all of this limited addition oil in a frenzy so that they could share their experience and sell it but now it’s gone...so they can’t §woman_shrugging:medium-light_skin_tone§ #scam #pyramidscheme #mlmfail #antimlm #antimlmmovement
+
+ 
+
+ Classification result for Post Nr. 102: 
+0
+non-MLM
+
+ 
+ Post Nr. 103 
+
+ 
+maybe it’s time to see the truth & leave hun?! this is so desperate i feel sorry for her but seriously she needs to see that begging for sales at the bottom of a pyramid scheme is no way to make a living...she’ll end up buying products herself to keep her sponsorship. #reddit #scam #pyramidscheme #antimlm #antimlmmovement ##mlmfail
+
+ 
+
+ Classification result for Post Nr. 103: 
+0
+non-MLM
+
+ 
+ Post Nr. 104 
+
+ 
+posted by a zyia active consultant...your company couldn’t give a crap about you hun...long as you keep buying, they don’t care if you make or lose money. #scam #antimlm #antimlmmovement #pyramidscheme #mlmfail
+
+ 
+
+ Classification result for Post Nr. 104: 
+1
+MLM
+
+ 
+ Post Nr. 105 
+
+ 
+are you compliant?  if you own your own business, how come arbonne can dictate even how you can speak now?! thank you to a follower for sending me this. #scam #pyramidscheme #antimlm #antimlmmovement #mlmfail
+
+ 
+
+ Classification result for Post Nr. 105: 
+1
+MLM
+
+ 
+ Post Nr. 106 
+
+ 
+wow, that’s a load on product... literally thousands of dollars worth! for those in the back... the §clapping_hands:light_skin_tone§consultants §clapping_hands:light_skin_tone§are §clapping_hands:light_skin_tone§the §clapping_hands:light_skin_tone§customers! #scam #antimlm #antimlmmovement #pyramidscheme #mlmfail
+
+ 
+
+ Classification result for Post Nr. 106: 
+1
+MLM
+
+ 
+ Post Nr. 107 
+
+ 
+as promised, a follower kindly sent me a training guide for when you first sign up to arbonne. there is a lot of information so i’m going to do a series. part one... the first few hours after signing up as a consultant §woman_technologist:medium-light_skin_tone§.... let the brainwashing begin! #scam #pyramidscheme #mlmfail #antimlm #antimlmmovement
+
+ 
+
+ Classification result for Post Nr. 107: 
+1
+MLM
+
+ 
+ Post Nr. 108 
+
+ 
+this is advice from the top envp of arbonne, she’s been in arbonne for 20 years so making out you can get to her position if you join now is a joke. this post reeks of #toxicpositivity & cult like tactics, work hard, don’t question anything, don’t utter anything negative...ever! let me know what you think.  ps...i thought you could build this business in the nooks & crannies of your life in 1 hour a day §woman_shrugging:medium-light_skin_tone§ #scam #mlmfail #antimlm #antimlmmovement #pyramidscheme
+
+ 
+
+ Classification result for Post Nr. 108: 
+1
+MLM
+
+ 
+ Post Nr. 109 
+
+ 
+§face_with_tears_of_joy§ #scam #pyramidscheme #antimlm #antimlmmovement #mlmfail
+
+ 
+
+ Classification result for Post Nr. 109: 
+0
+non-MLM
+
+ 
+ Post Nr. 110 
+
+ 
+part 2 of arbonne brainwashing (i mean training)...this gets into making your 100 person list & sending out ‘asks’. it also covers making your vision board which of course will include a white mercedes benz & travel to expensive far away places with your new besties. also, you’ll notice the little comment that it’s easy to go into district manager qualification with your own purchases and hassling your family. #scam #pyramidscheme #mlmfail #antimlmmovement #antimlm
+
+ 
+
+ Classification result for Post Nr. 110: 
+1
+MLM
+
+ 
+ Post Nr. 111 
+
+ 
+found this on reddit...omg the struggle is real §see-no-evil_monkey§§face_with_tears_of_joy§ #reddit #scam #pyramidscheme #antimlm #antimlmmovement #mlmfail
+
+ 
+
+ Classification result for Post Nr. 111: 
+0
+non-MLM
+
+ 
+ Post Nr. 112 
+
+ 
+monat doesn’t cause hair loss...this hun shows the truth...not sure of her logic though...has she got no hair left to lose at 4 months? §face_with_tears_of_joy§ #reddit #antimlm #antimlmmovement #pyramidscheme #mlmfail #scam
+
+ 
+
+ Classification result for Post Nr. 112: 
+1
+MLM
+
+ 
+ Post Nr. 113 
+
+ 
+i’d like to think most people would recognise this as fake advertising! §see-no-evil_monkey§§face_with_tears_of_joy§ #scam #antimlm #mlmfail #antimlmmovement
+
+ 
+
+ Classification result for Post Nr. 113: 
+0
+non-MLM
+
+ 
+ Post Nr. 114 
+
+ 
+bbb stands for beach body bitch...sorry but wtf, body shaming teenage girls is disgusting! this is not ok! §pouting_face§wish i knew who this was but found on #reddit #scam #pyramidscheme #bodyshaming #antimlm #antimlmmovement #mlmfail
+
+ 
+
+ Classification result for Post Nr. 114: 
+0
+non-MLM
+
+ 
+ Post Nr. 115 
+
+ 
+just a few income claims mary kay! if anyone wants to report...dm me for info.  #scam #pyramidscheme #mlmfail #antimlm #antimlmmovement #incomeclaims
+
+ 
+
+ Classification result for Post Nr. 115: 
+1
+MLM
+
+ 
+ Post Nr. 116 
+
+ 
+arbonne training series...stage 3, goal setting & getting your 1st promotion to district manager. your upline will push for you to get to dm as quickly as possible but this is a trap...once you are there you must continue to hit 2,500 qv every month otherwise you lose your pay rank & status. as you desperately work hard to keep your rank by hassling people & buying products yourself your uplines have a guaranteed 2,500 qv to help them rank up & earn $ off. #scam #mlmfail #antimlmmovement #antimlm #pyramidscheme
+
+ 
+
+ Classification result for Post Nr. 116: 
+1
+MLM
+
+ 
+ Post Nr. 117 
+
+ 
+came across this quote today & it made me think of you all...my followers & the antimlm community. i’ve chatted with so many of you & love to connect with you hearing & sharing stories. i love that we are all supporting each other especially those who have struggled coming to terms with leaving their mlm. §heart_suit§ #antimlm #antimlmmovement #pyramidscheme #scam
+
+ 
+
+ Classification result for Post Nr. 117: 
+0
+non-MLM
+
+ 
+ Post Nr. 118 
+
+ 
+advice from the top of the pyramid...buy, buy, buy§watermelon§§watermelon§§watermelon§. can’t these consultants seriously see through this...i wasn’t even that brainwashed§woman_shrugging:medium-light_skin_tone§thank you to a follower for sending this to me. #scam #pyramidscheme #mlmfail #antimlm #antimlmmovement
+
+ 
+
+ Classification result for Post Nr. 118: 
+0
+non-MLM
+
+ 
+ Post Nr. 119 
+
+ 
+what is this monat hun trying to prove...this is insane. thank you to a follower for sending me this. #scam #pyramidscheme #mlmfail #antimlmmovement #antimlm
+
+ 
+
+ Classification result for Post Nr. 119: 
+1
+MLM
+
+ 
+ Post Nr. 120 
+
+ 
+these arbonne huns sure like their income claims...it is not a free car! have you noticed this is a consultant cheering on her upline...does she not realise she’s the one paying for all this? §exploding_head§ #mlmfail #antimlm #antimlmmovement #pyramidscheme #scam
+
+ 
+
+ Classification result for Post Nr. 120: 
+1
+MLM
+
+ 
+ Post Nr. 121 
+
+ 
+false advertising but that’s ok there’s a tiny disclosure at the bottom §face_with_rolling_eyes§#scam #antimlm #antimlmmovement #antimlmscams #pyramidscheme #mlmfail
+
+ 
+
+ Classification result for Post Nr. 121: 
+0
+non-MLM
+
+ 
+ Post Nr. 122 
+
+ 
+omg this is body shaming at it’s worst...i wish i had this girl’s figure...she’s gorgeous. sounds like she’s an mlm hun selling some sort of supplements & because of that people think it’s ok to body shame. when i was in arbonne i felt very body conscious and that people wouldlook me up and down to see if i should really be selling a diet plan. #bodyshaming #scam #mlmfail #pyramidscheme #antimlm #antimlmmovement
+
+ 
+
+ Classification result for Post Nr. 122: 
+1
+MLM
+
+ 
+ Post Nr. 123 
+
+ 
+if you’re on twitter, go follow this account, this is a very good point & should be the actual disclaimer the huns put on all their posts §clapping_hands:light_skin_tone§ #scam #mlmfail #antimlm #antimlmmovement #pyramidscheme
+
+ 
+
+ Classification result for Post Nr. 123: 
+0
+non-MLM
+
+ 
+ Post Nr. 124 
+
+ 
+say what?! #mlmfail #antimlmmovement #antimm #scam #pyramidscheme
+
+ 
+
+ Classification result for Post Nr. 124: 
+0
+non-MLM
+
+ 
+ Post Nr. 125 
+
+ 
+part 3 arbonne training...how to deal with negativity & skepticism of your business. if you’ve got time (i know it’s a lot) but have a read of this...brainwashing...they’ve got a damn answer for everything §exploding_head§ #scam #pyramidscheme #mlmfail #antimlm #antimlmmovement
+
+ 
+
+ Classification result for Post Nr. 125: 
+1
+MLM
+
+ 
+ Post Nr. 126 
+
+ 
+holly must have read my last post. §face_with_tears_of_joy§#reddit #scam #pyramidscheme #antimlm #antimlmmovement
+
+ 
+
+ Classification result for Post Nr. 126: 
+0
+non-MLM
+
+ 
+ Post Nr. 127 
+
+ 
+i feel like there is a bit of consultant rivalry here...what do you think? this will always happen within mlm’s as the market gets saturated. #scam #pyramidscheme #mlmfail #antimlmmovement #antimlm
+
+ 
+
+ Classification result for Post Nr. 127: 
+0
+non-MLM
+
+ 
+ Post Nr. 128 
+
+ 
+this should read ‘according to mlm huns’ §flexed_biceps:light_skin_tone§ #antimlm #antimlmmovement #pyramidscheme #mlmfail #scam
+
+ 
+
+ Classification result for Post Nr. 128: 
+0
+non-MLM
+
+ 
+ Post Nr. 129 
+
+ 
+these are ads on my personal account just over the weekend...leave me alone...i’m not interested hun §face_with_rolling_eyes§ . #scam #mlmfail #pyramidscheme #antimlm #antimlmmovement
+
+ 
+
+ Classification result for Post Nr. 129: 
+0
+non-MLM
+
+ 
+ Post Nr. 130 
+
+ 
+the ones that want you to spend your money perhaps? §woman_shrugging:medium-light_skin_tone§ you are the customer & need to buy enough product so you can show yourself using it everyday on your insta stories? §woman_shrugging:medium-light_skin_tone§ #scam #antimlm #antimlmmovement #mlmfail #pyramidscheme
+
+ 
+
+ Classification result for Post Nr. 130: 
+0
+non-MLM
+
+ 
+ Post Nr. 131 
+
+ 
+now they’re just making stuff up §woman_facepalming:medium-light_skin_tone§ #scam #pyramidscheme #mlmfail #antimlm #antimlmmovement
+
+ 
+
+ Classification result for Post Nr. 131: 
+0
+non-MLM
+
+ 
+ Post Nr. 132 
+
+ 
+can’t believe glamour magazine in new zealand are recommending working for mlm’s! §exploding_head§thank you to a follower for sending me this. #scam #pyramidscheme #antimlm #antimlmmovement #mlmfail
+
+ 
+
+ Classification result for Post Nr. 132: 
+0
+non-MLM
+
+ 
+ Post Nr. 133 
+
+ 
+this is how you ‘earn’ a free trip with arbonne #scam #pyramidscheme #antimlm #antimlmmovement #mlmfail
+
+ 
+
+ Classification result for Post Nr. 133: 
+1
+MLM
+
+ 
+ Post Nr. 134 
+
+ 
+sorry i know i’ve already posted enough today but these huns just keep coming up with this nonsense §face_with_rolling_eyes§. you are not an entrepreneur! you just sell blue crap online for a pyramid scheme§exploding_head§ #scam #pyramidscheme #mlmfail #antimlm #antimlmmovement
+
+ 
+
+ Classification result for Post Nr. 134: 
+0
+non-MLM
+
+ 
+ Post Nr. 135 
+
+ 
+arbonne are cruelty free...however they do not hold the highest certification available ‘leaping bunny’ they are peta certified. to see the difference here’s some information taken from @crueltyfreekitty you can follow the link to her website for more info. #scam #pyramidscheme #antimlm #antimlmmovement #mlmfail
+
+ 
+
+ Classification result for Post Nr. 135: 
+1
+MLM
+
+ 
+ Post Nr. 136 
+
+ 
+quit your 9-5 & work 24/7 & only have  1 out of 100 chance of earning any money. enjoy your date...sounds soooo romantic...zoom call anyone? #scam #reddit #mlmfail #antimlm #antimlmmovement #pyramidscheme
+
+ 
+
+ Classification result for Post Nr. 136: 
+0
+non-MLM
+
+ 
+ Post Nr. 137 
+
+ 
+mlm’s are all about the big dreams...just keep going, keep hassling, keep buying. in reality you are just paying for your uplines dream. #scam #mlmfail #antimlmmovement #antimlm #pyramidscheme
+
+ 
+
+ Classification result for Post Nr. 137: 
+0
+non-MLM
+
+ 
+ Post Nr. 138 
+
+ 
+here’s part 4 of arbonne training, this is the last of the series. ‘asks’ this to me was the most icky part of the business, i particularly draw you attention to the last slide titled ‘random people i’ve never met’ this is so embarrassing and i can’t believe i actually did similar to this during my time in arbonne. hey, we live & learn...hope you enjoyed this series although it was a lot of info to take in. #scam #pyramidscheme #antimlm #antimlmmovement #mlmfail
+
+ 
+
+ Classification result for Post Nr. 138: 
+1
+MLM
+
+ 
+ Post Nr. 139 
+
+ 
+if anyone’s looking for an alternative to work out at home, check out zumba strong on amazon prime, no equipment needed & so good, i’ve been doing this workout 3 times a week during lockdown §flexed_biceps:light_skin_tone§
+
+ 
+
+ Classification result for Post Nr. 139: 
+0
+non-MLM
+
+ 
+ Post Nr. 140 
+
+ 
+what do you think most consultants do? §face_with_tears_of_joy§§face_with_tears_of_joy§§face_with_tears_of_joy§ #scam #pyramidscheme #antimlm #antimlmmovement #mlmfail
+
+ 
+
+ Classification result for Post Nr. 140: 
+0
+non-MLM
+
+ 
+ Post Nr. 141 
+
+ 
+could have it better myself §face_with_tears_of_joy§ thank you to a follower for sending this. #scam #pyramidscheme #antimlm #antimlmmovement #mlmfail
+
+ 
+
+ Classification result for Post Nr. 141: 
+0
+non-MLM
+
+ 
+ Post Nr. 142 
+
+ 
+it’s a fizz stick wall guys!! and swipe left for a well stocked fizz stick cupboard. both of these are thousands of $’s!! if you are a consultant buying this much product, please ask yourself why as this is a shocking amount of money to spend to keep rank or promote to the next level just so you can be in the girlboss gang. thank you to a lovely follower for sending me these. #scam #pyramidscheme #antimlm #antimlmmovement #mlmfail
+
+ 
+
+ Classification result for Post Nr. 142: 
+1
+MLM
+
+ 
+ Post Nr. 143 
+
+ 
+why don’t they ever learn? §woman_shrugging:medium-light_skin_tone§ #reddit #mlmfail #antimlm #antimlmmovement #pyramidscheme
+
+ 
+
+ Classification result for Post Nr. 143: 
+0
+non-MLM
+
+ 
+ Post Nr. 144 
+
+ 
+i did a little dive into fm world as i’ve seen lots online locally in my area., they originally sold knock off vegan perfumes but have now branched out into supplements, body care and make up. as a typical mlm they offer incentive trips and cars. quite concerned that they advertise on their own website ‘unlimited earnings’! #scam #pyramidscheme #mlmfail #antimlm #m#antimlmmovement
+
+ 
+
+ Classification result for Post Nr. 144: 
+0
+non-MLM
+
+ 
+ Post Nr. 145 
+
+ 
+thank you to all of you for following me...1,000 followers, wow, i had no idea when i started this account in april that i would reach so many people! so glad to be part of the antimlm community which is so supportive & tells it like it is. 
+i promised to share some of my recruitment cold messages if i reached 1,000 followers, so here they are. i couldn’t even read these a couple of months ago, let alone share them with you but i guess you’ve all given me the confidence to speak out. 
+i sent many messages but as you expect none ever came to anything. i’m just lucky most people ignored me & were polite. please don’t hate me, i actually thought it was a good opportunity at the time, i’m usually switched on with these sorts of things & a good judge of character so not sure what happened to me...brainwashed i guess but that’s not an excuse.  #scam #antimlm #antimlmmovement #pyramidscheme #mlmfail
+
+ 
+
+ Classification result for Post Nr. 145: 
+1
+MLM
+
+ 
+ Post Nr. 146 
+
+ 
+new consultant unboxing ‘just a few essentials’ you §clapping_hands:light_skin_tone§ are §clapping_hands:light_skin_tone§ the §clapping_hands:light_skin_tone§ customer §clapping_hands:light_skin_tone§ hun. #scam #pyramidscheme #antimlm #antimlmmovement #mlmfail
+
+ 
+
+ Classification result for Post Nr. 146: 
+1
+MLM
+
+ 
+ Post Nr. 147 
+
+ 
+omg, this is so wrong, just read the damn instructions ‘do not ingest essential oils’ how hard is that?! §exploding_head§ #reddit #scam #mlmfail #antimlm #antimlmmovement #pyramidscheme
+
+ 
+
+ Classification result for Post Nr. 147: 
+0
+non-MLM
+
+ 
+ Post Nr. 148 
+
+ 
+ugh §face_with_rolling_eyes§ #scam #pyramidscheme #mlmfail #antimlm #antimlmmovement
+
+ 
+
+ Classification result for Post Nr. 148: 
+0
+non-MLM
+
+ 
+ Post Nr. 149 
+
+ 
+i’ve had some requests for info on arbonne’s b corp status & the lovely @amandafitandhealthy has covered it all in a video today...defo go & watch this...will be good #scam #mlmfail #antimlm #antimlmmovement #pyramidscheme
+
+ 
+
+ Classification result for Post Nr. 149: 
+1
+MLM
+
+ 
+ Post Nr. 150 
+
+ 
+wow...this top uk envp has a garage full! #scam #pyramidscheme #antimlm #antimlmmovement #mlmfail
+
+ 
+
+ Classification result for Post Nr. 150: 
+0
+non-MLM
+
+ 
+ Post Nr. 151 
+
+ 
+reddit post...what the hell is wrong with these people?! §exploding_head§ #scam #reddit #mlmfail #antimlm #antimlmmovement
+
+ 
+
+ Classification result for Post Nr. 151: 
+0
+non-MLM
+
+ 
+ Post Nr. 152 
+
+ 
+§face_with_medical_mask§ #scam #pyramidscheme #mlmfail #antimlm #antimlmmovement
+
+ 
+
+ Classification result for Post Nr. 152: 
+0
+non-MLM
+
+ 
+ Post Nr. 153 
+
+ 
+the latest thing in arbonne is using more than 1 product to make a ‘healthy cocktail’. each product is sold in packs of 30 at around $45 -$60 (depending on if you’re ic/pc) so this ‘ ultimate health and energy drink’ could cost up to around $240!  btw, the same woman was advertising botox on her insta last night so i don’t think it’s the collagen making her look wrinkle free & it’s probably cheaper §syringe§! #scam #pyramidscheme #mlmfail #antimlm #antimlmmovement
+
+ 
+
+ Classification result for Post Nr. 153: 
+0
+non-MLM
+
+ 
+ Post Nr. 154 
+
+ 
+a kind follower just directed me to an nvp’s arbonne training page...what a minefield of false claims, free cars, scaremongering, toxic positivity and mum shaming. arbonne is truly toxic #scam #pyramidscheme #mlmfail #antimlm #antimlmmovement
+
+ 
+
+ Classification result for Post Nr. 154: 
+1
+MLM
+
+ 
+ Post Nr. 155 
+
+ 
+is it just me or do you think this just screams ‘mean girls’? #scam #pyramidscheme #mlmfail #antimlm #antimlmmovement
+
+ 
+
+ Classification result for Post Nr. 155: 
+1
+MLM
+
+ 
+ Post Nr. 156 
+
+ 
+@thetasteofnutrition §raising_hands:light_skin_tone§ #scam #mlmfail #antimlm #antimlmmovement #pyramidscheme
+
+ 
+
+ Classification result for Post Nr. 156: 
+0
+non-MLM
+
+ 
+ Post Nr. 157 
+
+ 
+zoom call while you give birth...umm no thanks, a bit busy. if you can’t take a few hours off to have a baby, then how are you going to have quality time when he/she is born. this ‘can work anytime, anywhere’ really means ‘all the time, everywhere’ nothing like financial freedom! #scam #pyramidscheme #antimlm #antimlmmovement #mlmfail
+
+ 
+
+ Classification result for Post Nr. 157: 
+1
+MLM
+
+ 
+ Post Nr. 158 
+
+ 
+i don’t get it §woman_shrugging:medium-light_skin_tone§ #reddit #mlmfail #antimlm #antimlmmovement #pyramidscheme #scam
+
+ 
+
+ Classification result for Post Nr. 158: 
+0
+non-MLM
+
+ 
+ Post Nr. 159 
+
+ 
+this fits in with my 2 of my recent posts...no time off & the ‘you can sit with us’ mean girls quote again §woman_facepalming:medium-light_skin_tone§ don’t wanna sit with you thanks...it’s a scam & i want a day off! thanks to a follower for sending me this. #scam #pyramidscheme #mlmfail #antimlm #antimlmmovement
+
+ 
+
+ Classification result for Post Nr. 159: 
+0
+non-MLM
+
+ 
+ Post Nr. 160 
+
+ 
+omg, how will the arbots survive §face_screaming_in_fear§§watermelon§§face_screaming_in_fear§§watermelon§§face_screaming_in_fear§§watermelon§§face_screaming_in_fear§§watermelon§§face_screaming_in_fear§ #scam #mlmfail #pyramidscheme #antimlm #antimlmmovement
+
+ 
+
+ Classification result for Post Nr. 160: 
+0
+non-MLM
+
+ 
+ Post Nr. 161 
+
+ 
+in arbonne everyone has a regional group chat with the uplines team. someone complained about a product being reformulated saying it felt like it was burning their throat. my upline piped up that i didn’t like it either, so i saw this & replied that i agreed & it tasted gross. 
+
+anyway, i received this voice message from the rvp... ‘just to let you know please don’t write stuff on that team chat because new people see it and it’s really not ideal. if you don’t like the product speak to me or arbonne. i don’t know why people are getting these extreme things or how are you are using it i find it fine, just mix it up’.
+
+umm...i don’t like being told what to say, this did not sit right with me & i was using the bloody stuff as instructed on the bloody packet. i felt like leaving the team chat there & then...why didn’t i? i think i was paranoid that i was seen as the negative one so i removed my message in the team chat. i’m so cross with myself for being weak but looking back at this message it was the same week i had some personal issues going on so didn’t feel strong enough i guess. now i realise after reading about the bite model...that yes i was being controlled & manipulated & went deeper than 1 yucky tasting product. if you got to the end of my little story, thank you & thank you @lillian.lalo.loves .  #scam #mlmfail #antimlm #antimlmmovement #pyramidscheme
+
+ 
+
+ Classification result for Post Nr. 161: 
+1
+MLM
+
+ 
+ Post Nr. 162 
+
+ 
+false medical claims right here! plus should you rub oils on your breasts then your baby ends up ingesting them? §woman_shrugging:medium-light_skin_tone§ #scam #pyramidscheme #reddit #mlmfail #antimlmmovement #antimlm
+
+ 
+
+ Classification result for Post Nr. 162: 
+0
+non-MLM
+
+ 
+ Post Nr. 163 
+
+ 
+i’ve had messages on my personal account about this...wondered what this crap was. it’s not the products that make you lose the weight...it’s the fact that you are eating 1200 calories a day. soon as you start eating ‘normally’ again you will put it all back on! #scam #reddit #mlmfail #antimlm #antimlmmovement
+
+ 
+
+ Classification result for Post Nr. 163: 
+1
+MLM
+
+ 
+ Post Nr. 164 
+
+ 
+@thefinancialdiet have published this story, the link is in my bio. #scam #pyramidscheme #mlmfail #antimlm #antimlmmovement
+
+ 
+
+ Classification result for Post Nr. 164: 
+0
+non-MLM
+
+ 
+ Post Nr. 165 
+
+ 
+nearly self aware but not quite §woman_facepalming:medium-light_skin_tone§ #scam #pyramidscheme #antimlm #antimlmmovement #mlmfail
+
+ 
+
+ Classification result for Post Nr. 165: 
+0
+non-MLM
+
+ 
+ Post Nr. 166 
+
+ 
+plexus health claims §flushed_face§ #scam #pyramidscheme #mlmfail #antimlm #antimlmmovement #reddit
+
+ 
+
+ Classification result for Post Nr. 166: 
+0
+non-MLM
+
+ 
+ Post Nr. 167 
+
+ 
+one of the things that gets on my nerves about mlm’s are consultants that put their upline on a pedestal. they worship them, i’ve seen this in arbonne, they will bring the biggest earners on stage & cheer for them. can’t they see that their struggle to the top is what keeps the top earners at the top...the consultants are paying for the uplines lifestyle, holidays & cars that they want for themselves. stop with the cult worshipping. #scam #toxicpositivity #antimlm #antimlmmovement #mlmfail #pyramidscheme
+
+ 
+
+ Classification result for Post Nr. 167: 
+0
+non-MLM
+
+ 
+ Post Nr. 168 
+
+ 
+does anyone else see these adverts on their feed? these scams within a scam are awful... marketed as the key to success for your network marketing business, struggling consultants will pay out even more money thinking this is the answer §angry_face§#scam #mlmfail #antimlm #antimlmmovement #pyramidscheme
+
+ 
+
+ Classification result for Post Nr. 168: 
+0
+non-MLM
+
+ 
+ Post Nr. 169 
+
+ 
+§face_with_tears_of_joy§§face_with_tears_of_joy§§face_with_tears_of_joy§
+
+ 
+
+ Classification result for Post Nr. 169: 
+0
+non-MLM
+
+ 
+ Post Nr. 170 
+
+ 
+nothing like a bit of monday morning toxic positivity #scam #pyramidscheme #mlmfail #antimlm #antimlmmovement #toxicpositivity
+
+ 
+
+ Classification result for Post Nr. 170: 
+0
+non-MLM
+
+ 
+ Post Nr. 171 
+
+ 
+a lovely follower admitted binge watching game of thrones, take note that at the time she had a newborn & was breast feeding. her upline publicly online shamed her for watching tv instead of working 24/7 on her biz. there’s no qv in tv! §exploding_head§ #pyramidscheme #scam #mlmfail #antimlm #antimlmmovement
+
+ 
+
+ Classification result for Post Nr. 171: 
+0
+non-MLM
+
+ 
+ Post Nr. 172 
+
+ 
+this is blacchyna’s upline...you do not receive free cars & trips!!! §pouting_face§#scam #pyramidscheme #mlmfail #antimlm #antimlmmovement
+
+ 
+
+ Classification result for Post Nr. 172: 
+0
+non-MLM
+
+ 
+ Post Nr. 173 
+
+ 
+be a boss mum, stay safe at home, be a business owner. #scam #mlmfail #pyramidscheme #antimlm #antimlmmovement
+
+ 
+
+ Classification result for Post Nr. 173: 
+1
+MLM
+
+ 
+ Post Nr. 174 
+
+ 
+hun logic...compare fries to tea §woman_shrugging:medium-light_skin_tone§ #scam #pyramidscheme #mlmfail #antimlm #antimlmmovement
+
+ 
+
+ Classification result for Post Nr. 174: 
+0
+non-MLM
+
+ 
+ Post Nr. 175 
+
+ 
+arbonne (us only) have a recycle program which yes is a good thing. however, i feel that arbonne promotes over consumerism, more so than other nutrition, skincare & cosmetic companies.  of course they want to sell their products, every company does but when you buy from a brick & mortar shop you don’t need to buy a certain amount of products that month to keep your job or rank up. i tend to lean more towards consume less and recycle rather than consume (& spend) loads and recycle (as the consultant in this picture has). i’m rambling a bit but i hope you get what i mean...do you agree? #scam #mlmfail #pyramidscheme #antimlm #antimlmmovement
+
+ 
+
+ Classification result for Post Nr. 175: 
+1
+MLM
+
+ 
+ Post Nr. 176 
+
+ 
+i earn so much money with my side hustle i can buy a sandwich #scam #pyramidscheme #mlmfail #antimlm #antimlmmovement #reddit
+
+ 
+
+ Classification result for Post Nr. 176: 
+0
+non-MLM
+
+ 
+ Post Nr. 177 
+
+ 
+omg, this is why i hate mlm’s...she’ll never see that money again but will keep going, ploughing money in every month thinking that she’ll get lucky one day. #reddit #scam #pyramidscheme #mlmfail #antimlm #antimlmarmy #antimlmmovement
+
+ 
+
+ Classification result for Post Nr. 177: 
+0
+non-MLM
+
+ 
+ Post Nr. 178 
+
+ 
+how is this not a pyramid scheme? §exploding_head§ #scam #pyramidscheme #mlmfail #antimlm #antimlmmovement #antimlmarmy
+
+ 
+
+ Classification result for Post Nr. 178: 
+0
+non-MLM
+
+ 
+ Post Nr. 179 
+
+ 
+thank you to a follower for sending me this from a mum’s facebook group with a no networking marketing rule. #scam #mlmfail #antimlm #antimlmmovement #pyramidscheme
+
+ 
+
+ Classification result for Post Nr. 179: 
+0
+non-MLM
+
+ 
+ Post Nr. 180 
+
+ 
+go watch this! brilliant & great to see our @notthegoodgirl featured. #scam #mlmfail #antimlm #antimlmmovement #pyramidscheme
+
+ 
+
+ Classification result for Post Nr. 180: 
+0
+non-MLM
+
+ 
+ Post Nr. 181 
+
+ 
+arbonne nvp pep talk §exploding_head§ #scam #mlmfail #toxicpositivity #antimlmmovement #antimlm #pyramidscheme
+
+ 
+
+ Classification result for Post Nr. 181: 
+1
+MLM
+
+ 
+ Post Nr. 182 
+
+ 
+wow, if you have to hide your business from your husband isn’t that a big red flag? §triangular_flag§ #reddit #scam #pyramidscheme #mlmfail #antimlmmovement #antimlm
+
+ 
+
+ Classification result for Post Nr. 182: 
+0
+non-MLM
+
+ 
+ Post Nr. 183 
+
+ 
+i’ve been doing a bit investigating into tlc, these are their main product lines. who buys this crap and more to the point why would anyone want to sell it?! §woman_shrugging:medium-light_skin_tone§ #scam #pyramidscheme #mlmfail #antimlm #antimlmmovement
+
+ 
+
+ Classification result for Post Nr. 183: 
+0
+non-MLM
+
+ 
+ Post Nr. 184 
+
+ 
+i remember my upline used to tell us on training that we thought to much...just do it...it’s not a big decision. learn as you go...we were on a ‘need to know basis’. #scam #pyramidscheme #mlmfail #antimlm #antimlmmovement
+
+ 
+
+ Classification result for Post Nr. 184: 
+0
+non-MLM
+
+ 
+ Post Nr. 185 
+
+ 
+an arbonne hun debunking the #antimlm arguments. §see-no-evil_monkey§ let me know what you think, your comments will be welcomed. #scam #pyramidscheme #mlmfail #toxicpositivity #antimlmmovement
+
+ 
+
+ Classification result for Post Nr. 185: 
+1
+MLM
+
+ 
+ Post Nr. 186 
+
+ 
+mlm’s are not small businesses #mlmfail #pyramidscheme #antimlm #antimlmmovement #scam
+
+ 
+
+ Classification result for Post Nr. 186: 
+0
+non-MLM
+
+ 
+ Post Nr. 187 
+
+ 
+in the uk arbonne holds its version of the gtc, (i attended last year). the big reveal will be new products including the christmas ‘i want it all pack’ which consultants will be encouraged to purchase 3 packs while the conference is on at a 50% discount & possibly with a free gift (which was a naf cheap blanket last year). because the conference is virtual this year other countries are invited to register & pay for the training too. it will be full of motivation nonsense & feature all the consultants that have been in the business for years. #scam #toxicpositivity #pyramidscheme #mlmfail #antimlm #antimlmmovement
+
+ 
+
+ Classification result for Post Nr. 187: 
+0
+non-MLM
+
+ 
+ Post Nr. 188 
+
+ 
+network marketing anyone? #scam #pyramidscheme #mlmfail #antimlm #antimlmmovement
+
+ 
+
+ Classification result for Post Nr. 188: 
+0
+non-MLM
+
+ 
+ Post Nr. 189 
+
+ 
+there’s so much wrong with this (grammar aside) i wouldn’t know where to start. if influencer’s are working for free that would be the same as mlm’s right? §woman_shrugging:medium-light_skin_tone§ i’m sure @kimbyrleigha would have some wise words for the nonsense this arbonne hun has sooo much knowledge about. #scam #mlmfail #antimlm #antimlmmovement #pyramidscheme
+
+ 
+
+ Classification result for Post Nr. 189: 
+1
+MLM
+
+ 
+ Post Nr. 190 
+
+ 
+nothing to add to this #scam #pyramidscheme #mlmfail #antimlm #antimlmmovement
+
+ 
+
+ Classification result for Post Nr. 190: 
+0
+non-MLM
+
+ 
+ Post Nr. 191 
+
+ 
+has anyone heard of swap shop products? hun’s trying to sell their products by scare-mongering does not sit right with me so i thought i’d investigate a little...they deny being an mlm but they do sell & recruit...if it looks like a duck & quacks like a duck §duck§#mlmfail #antimlm #antimlmmovement #pyramidscheme #scam
+
+ 
+
+ Classification result for Post Nr. 191: 
+0
+non-MLM
+
+ 
+ Post Nr. 192 
+
+ 
+§rolling_on_the_floor_laughing§§rolling_on_the_floor_laughing§§rolling_on_the_floor_laughing§ #reddit #scam #antimlm #antimlmmovement #mlmfail #pyramidscheme
+
+ 
+
+ Classification result for Post Nr. 192: 
+0
+non-MLM
+
+ 
+ Post Nr. 193 
+
+ 
+uumm, yes my old upline has been ‘so close’ for about 2 years now §woman_shrugging:medium-light_skin_tone§didn’t help that i left i guess §grimacing_face§ #scam #pyramidscheme #mlmfail #antimlm #antimlmmovement
+
+ 
+
+ Classification result for Post Nr. 193: 
+0
+non-MLM
+
+ 
+ Post Nr. 194 
+
+ 
+just some of the things i was told whilst being in a pyramid scheme....
+...i forgot this ridiculous one...’get out of your own way!’ wtf does that mean §face_with_tears_of_joy§§face_with_tears_of_joy§. #scam #mlmfail #antimlm #antimlmmovement #pyramidscheme
+
+ 
+
+ Classification result for Post Nr. 194: 
+0
+non-MLM
+
+ 
+ Post Nr. 195 
+
+ 
+not sure what quoting albert einstein has to do with mlms §woman_shrugging:medium-light_skin_tone§ #scam #pyramidscheme #mlmfail #antimlm #antimlmmovement
+
+ 
+
+ Classification result for Post Nr. 195: 
+0
+non-MLM
+
+ 
+ Post Nr. 196 
+
+ 
+anyone from the uk! please go and sign this petition to get mlms banned from trading in the uk. if it gets to 100,000 signatures it will be discussed in parliament. this is our chance to make a difference! link in bio #scam #pyramidscheme #mlmfail #antimlm #antimlmmovement
+
+ 
+
+ Classification result for Post Nr. 196: 
+0
+non-MLM
+
+ 
+ Post Nr. 197 
+
+ 
+this new consultant has bought so much arbonne make up...i guess if you want to sell it you need to have all the foundation shades, lipstick samples, etc to show potential clients. the foundations alone are approx $40 (ic) so she’s spent alot. she also has all the nutrition & skin care...yikes. #scam #mlmfail #antimlm #antimlmmovement #pyramidscheme
+
+ 
+
+ Classification result for Post Nr. 197: 
+1
+MLM
+
+ 
+ Post Nr. 198 
+
+ 
+say what??!! beware scammer on the loose preying on the elderly & injured! #reddit #scam #mlmfail #antimlm #antimlmmovement #pyramidscheme
+
+ 
+
+ Classification result for Post Nr. 198: 
+0
+non-MLM
+
+ 
+ Post Nr. 199 
+
+ 
+poor overworked mlm huns...what happened to being financially free? §woman_shrugging:medium-light_skin_tone§ #mlmfail #antimlm #antimlmmovement #pyramidscheme #scam
+
+ 
+
+ Classification result for Post Nr. 199: 
+0
+non-MLM
+
+ 
+ Post Nr. 200 
+
+ 
+this doesn’t look like a pyramid scheme at all tlc #mlmfail #pyramidscheme #antimlm #antimlmmovement #scam
+
+ 
+
+ Classification result for Post Nr. 200: 
+0
+non-MLM
+
+ 
+ Post Nr. 201 
+
+ 
+thrive...isn’t this against ftc rules? found on reddit #scam #pyramidscheme #mlmfail #antimlm #antimlmmovement #reddit
+
+ 
+
+ Classification result for Post Nr. 201: 
+0
+non-MLM
+
+ 
+ Post Nr. 202 
+
+ 
+sorry this is a bit blurry, taken at u.k. aac training conference last year...arbonne’s system for success, mostly refers to recruitment §woman_facepalming:medium-light_skin_tone§. #pyramidscheme #scam #mlmfail #antimlm #antimlmmovement
+
+ 
+
+ Classification result for Post Nr. 202: 
+1
+MLM
+
+ 
+ Post Nr. 203 
+
+ 
+it should have been aac this weekend & they always launch a new product at the same time as they get the consultants hyped up & make them spend spend spend. this proves once again that the consultants are the customers #scam #pyramidscheme #antimlm #antimlmmovement #mlmfail
+
+ 
+
+ Classification result for Post Nr. 203: 
+0
+non-MLM
+
+ 
+ Post Nr. 204 
+
+ 
+yeah you do...every single month or you’ll lose your rank & car. #scam #mlmfail #antimlm #antimlmmovement #pyramidscheme
+
+ 
+
+ Classification result for Post Nr. 204: 
+0
+non-MLM
+
+ 
+ Post Nr. 205 
+
+ 
+with arbonne launching a new ‘age well’ skin care range ‘which is the best skincare range everrrr in the whole world!!!’ i’ve seen a few video’s of hunbots actually throwing away the re9 sets to replace them with the new range...this rvp even threw away her i-phone11. arbonne’s throw away materialistic lifestyle makes me sick §exploding_head§. #scam #mlmfail #antimlm #antimlmmovement #pyramidscheme
+
+ 
+
+ Classification result for Post Nr. 205: 
+1
+MLM
+
+ 
+ Post Nr. 206 
+
+ 
+wow, how much have you spent hun §face_screaming_in_fear§. this is shocking, how can these consultants not realise they are the customers?! #scam #pyramidscheme #mlmfail #antimlm #antimlmmovement
+
+ 
+
+ Classification result for Post Nr. 206: 
+0
+non-MLM
+
+ 
+ Post Nr. 207 
+
+ 
+looks like a medical claim to me #scam #mlmfail #antimlm #antimlmmovement #pyramidscheme
+
+ 
+
+ Classification result for Post Nr. 207: 
+0
+non-MLM
+
+ 
+ Post Nr. 208 
+
+ 
+this product used to be called immunity booster, arbonne took it off their website but now it’s back under a new name...same pointless expensive product though...it’s basically vitamin c for £81! btw it tastes awful. #scam #mlmfail #antimlmmovememt #antimlm #pyramidscheme
+
+ 
+
+ Classification result for Post Nr. 208: 
+0
+non-MLM
+
+ 
+ Post Nr. 209 
+
+ 
+i call bullshit #scam #mlmfail #antimlm #antimlmmovement #pyramidscheme
+
+ 
+
+ Classification result for Post Nr. 209: 
+0
+non-MLM
+
+ 
+ Post Nr. 210 
+
+ 
+so this is how you get to rvp with arbonne #scam #mlmfail #antimlm #antimlmmovement #pyramidscheme
+
+ 
+
+ Classification result for Post Nr. 210: 
+1
+MLM
+
+ 
+ Post Nr. 211 
+
+ 
+ok, let me know if you find this as shocking as i do...to me it shows that arbonne is acting underhanded in regards to promoting their ‘30 days to heathy living plan’. they do ‘buy’ people & i’m convinced they hand pick future nvp’s & give them a helping hand, as sometimes their stories just don’t add up. #scam #mlmfail #antimlm #antimlmmovememt #pyramidscheme
+
+ 
+
+ Classification result for Post Nr. 211: 
+1
+MLM
+
+ 
+ Post Nr. 212 
+
+ 
+if you are not sales based you must be recruitment based! #pyramidscheme #scam #mlmfail #antimlm #antimlmmovement
+
+ 
+
+ Classification result for Post Nr. 212: 
+0
+non-MLM
+
+ 
+ Post Nr. 213 
+
+ 
+it’s always ‘the best time to join an mlm’, when there’s a new launch, when there’s a special offer or even during a global pandemic! #scam #mlmfail #antimlm #antimlmmovement #pyramidscheme
+
+ 
+
+ Classification result for Post Nr. 213: 
+1
+MLM
+
+ 
+ Post Nr. 214 
+
+ 
+true story...this morning my daughter received a ‘hey hun, i love your instagram account’ message. she is clearly looks 14/15 in her feed photos! luckily she has a mum that knows exactly what ‘network marketing’ is so my daughter replied ‘i’m only 14 & not interested in a pyramid scheme’. #scam #pyramidscheme #mlmfail #antimlmmovement #antimlm
+
+ 
+
+ Classification result for Post Nr. 214: 
+1
+MLM
+
+ 
+ Post Nr. 215 
+
+ 
+to be the shit...more like be shitting all day long! §flushed_face§§pile_of_poo§#scam #mlmfail #antimlm #antimlmmovement #pyramidscheme
+
+ 
+
+ Classification result for Post Nr. 215: 
+0
+non-MLM
+
+ 
+ Post Nr. 216 
+
+ 
+is it really time to be jetting off with your vp’s, hardly essential travel...your ‘business’ isn’t that important §face_with_rolling_eyes§ thank you to a follower for sending.#pyramidscheme #antimlm #antimlmmovement #scam #mlmfail
+
+ 
+
+ Classification result for Post Nr. 216: 
+0
+non-MLM
+
+ 
+ Post Nr. 217 
+
+ 
+§woman_facepalming:medium-light_skin_tone§ #reddit #pyramidscheme #antimlm #antimlmmovement #scam  #mlmfail
+
+ 
+
+ Classification result for Post Nr. 217: 
+0
+non-MLM
+
+ 
+ Post Nr. 218 
+
+ 
+this is amazing news...let’s hope other social media platforms follow. what are your thoughts...will this eventually move to banning huns advertising their supplements on insta? #dietculture #mlmfail #antimlm
+
+ 
+
+ Classification result for Post Nr. 218: 
+0
+non-MLM
+
+ 
+ Post Nr. 219 
+
+ 
+yes...@thefinancialdiet is on the case again, new video up today §clapping_hands:light_skin_tone§§clapping_hands:light_skin_tone§§clapping_hands:light_skin_tone§#scam #pyramidscheme #mlmfail #antimlm #antimlmmovement
+
+ 
+
+ Classification result for Post Nr. 219: 
+0
+non-MLM
+
+ 
+ Post Nr. 220 
+
+ 
+thank you to a follower for sending me this. this is monat’s new supplements. we’d like to know, are monat putting health claims on the boxes themselves??!! let us know what you think. §thinking_face§#scam #mlmfail #antimlm #antimlmmovement #pyramidscheme
+
+ 
+
+ Classification result for Post Nr. 220: 
+1
+MLM
+
+ 
+ Post Nr. 221 
+
+ 
+found on #reddit & just had to share with you all...brilliant! §face_with_tears_of_joy§ #antimlm #pyramidscheme #scam #antimlmmovement #mlmfail
+
+ 
+
+ Classification result for Post Nr. 221: 
+0
+non-MLM
+
+ 
+ Post Nr. 222 
+
+ 
+nothing like a begging arbonne rep at month end §face_with_rolling_eyes§. she already a rvp but wants you to spend your hard earned cash on overpriced, overhyped products so she can scam even more people & earn even more commission off her downline. she words this post like by buying from her you’re doing something good like giving to charity or something. §woman_facepalming:medium-light_skin_tone§ #scam #pyramidscheme #mlmfail #antimlm #antimlmmovement
+
+ 
+
+ Classification result for Post Nr. 222: 
+1
+MLM
+
+ 
+ Post Nr. 223 
+
+ 
+no this really isn’t the reason #scam #pyramidscheme #mlmfail #antimlmmovement #antimlm
+
+ 
+
+ Classification result for Post Nr. 223: 
+0
+non-MLM
+
+ 
+ Post Nr. 224 
+
+ 
+wow §clapping_hands:light_skin_tone§§party_popper§ #scam #pyramidscheme #antimlm #mlmfail #antimlmmovement
+
+ 
+
+ Classification result for Post Nr. 224: 
+0
+non-MLM
+
+ 
+ Post Nr. 225 
+
+ 
+so this nvp what’s to be more jesus like. i don’t know what to say about this...apart from who the hell does she think she is?! inspired by @christian_mlm_truth  #scam #pyramidscheme #mlmfail #antimlm #antimlmmovement
+
+ 
+
+ Classification result for Post Nr. 225: 
+0
+non-MLM
+
+ 
+ Post Nr. 226 
+
+ 
+sorry your dad died, do you want to buy some arbonne christmas products? #reddit #scam #mlmfail #antimlm #antimlmmovement #pyramidscheme
+
+ 
+
+ Classification result for Post Nr. 226: 
+1
+MLM
+
+ 
+ Post Nr. 227 
+
+ 
+just another nvp’s well stocked cupboards. #pyramidscheme #scam #mlmfail #antimlm #antimlmmovement
+
+ 
+
+ Classification result for Post Nr. 227: 
+0
+non-MLM
+
+ 
+ Post Nr. 228 
+
+ 
+should a doctor be promoting ingesting young living oils even if they don’t sell them? #pyramidscheme #antimlm
+
+ 
+
+ Classification result for Post Nr. 228: 
+0
+non-MLM
+
+ 
+ Post Nr. 229 
+
+ 
+ugh...more ways to waste money & time chasing the dream which only 99% of people succeed #scam #pyramidscheme #antimlm #antimlmmovement #mlmfail
+
+ 
+
+ Classification result for Post Nr. 229: 
+0
+non-MLM
+
+ 
+ Post Nr. 230 
+
+ 
+i received a hey hun message last week & this was my reply...i hope it was respectful. i know i could have elaborated but i feel this was enough. #scam #mlmfail #antimlm #antimlmmovement #pyramidscheme
+
+ 
+
+ Classification result for Post Nr. 230: 
+0
+non-MLM
+
+ 
+ Post Nr. 231 
+
+ 
+these insta adverts drive me nuts...anyone else? this one is for kangen water §face_with_rolling_eyes§ #scam #pyramidscheme #antimlm #antimlmmovement #mlmfail
+
+ 
+
+ Classification result for Post Nr. 231: 
+0
+non-MLM
+
+ 
+ Post Nr. 232 
+
+ 
+i’ve covered up this poor ladies face, but it does look a lot like the gif i used to cover her up ie...not happy. hustle arbonne while you give birth...really §grimacing_face§ (credit: reddit) #scam #pyramidscheme #mlmfail #antimlm #reddit #antimlmmovement
+
+ 
+
+ Classification result for Post Nr. 232: 
+0
+non-MLM
+
+ 
+ Post Nr. 233 
+
+ 
+these huns don’t know when to take a hint. i remember when i was desperate to get my qv up at the end of the month too, not quite this desperate though §see-no-evil_monkey§. thanks to a follower for sending this to me.  #scam #pyramidscheme #mlmfail #antimlm #antimlmmovement
+
+ 
+
+ Classification result for Post Nr. 233: 
+0
+non-MLM
+
+ 
+ Post Nr. 234 
+
+ 
+this is not buying local and these are not small businesses #reddit #pyramidscheme #mlmfail #scam #antimlm #antimlmmovement
+
+ 
+
+ Classification result for Post Nr. 234: 
+0
+non-MLM
+
+ 
+ Post Nr. 235 
+
+ 
+in arbonne you have to be a product of the product, skincare, nutrition, make up, body care & the dreaded haircare §grimacing_face§. what a relief when you give up & can buy whatever brand you want. did you feel obliged to use an mlm product from ‘your own shop’ that you didn’t actually rate that highly? . #scam #pyramidscheme #mlmfail #antimlm #antimlmmovement
+
+ 
+
+ Classification result for Post Nr. 235: 
+1
+MLM
+
+ 
+ Post Nr. 236 
+
+ 
+arbonne consultants are encouraged to purchase 2 sets of the ‘i want it all’ christmas products. i bought 1 pack & guess what...i didn’t sell any of these overpriced, mediocre products (even after 3 events). #scam #mlmfail #pyramidscheme #antimlm #antimlmmovement
+
+ 
+
+ Classification result for Post Nr. 236: 
+1
+MLM
+
+ 
+ Post Nr. 237 
+
+ 
+yes we in the #antimlmmovement know this but do your girl gang really know what this means? #antimlm #scam #pyramidscheme #mlmfail
+
+ 
+
+ Classification result for Post Nr. 237: 
+0
+non-MLM
+
+ 
+ Post Nr. 238 
+
+ 
+keep reporting those scam mlm adverts promising money, travel, cars & goodness knows what else. #mlmfail #antimlm #antimlmmovement #pyramidscheme #scam
+
+ 
+
+ Classification result for Post Nr. 238: 
+0
+non-MLM
+
+ 
+ Post Nr. 239 
+
+ 
+arbonne wants to control your social media. #scam #mlmfail #antimlm #antimlmmovement #pyramidscheme
+
+ 
+
+ Classification result for Post Nr. 239: 
+1
+MLM
+
+ 
+ Post Nr. 240 
+
+ 
+just a few income claims & nonsense from an fm hun. #scam #mlmfail #antimlmmovement #pyramidscheme #antimlm
+
+ 
+
+ Classification result for Post Nr. 240: 
+0
+non-MLM
+
+ 
+ Post Nr. 241 
+
+ 
+may i draw your attention to the small print at the bottom of arbonne’s post today. these results they are announcing are from 73 independent consultants...well of course they are going to say the products are ‘amazing’ as they want to sell them & get their downline to stock up...i’m actually surprised 16% of the top vp’s didn’t rate this skincare line at all. #scam #pyramidscheme #mlmfail #antimlm #antimlmmovement
+
+ 
+
+ Classification result for Post Nr. 241: 
+1
+MLM
+
+ 
+ Post Nr. 242 
+
+ 
+drawing a circle rather than a triangle doesn’t make it any less of a pyramid scheme §red_triangle_pointed_up§. #scam #mlmfail #antimlm #antimlmmovement #pyramidscheme
+
+ 
+
+ Classification result for Post Nr. 242: 
+0
+non-MLM
+
+ 
+ Post Nr. 243 
+
+ 
+what does jesus have to do with plexus? #scam #pyramidscheme #mlmfail #antimlmmovement #antimlm
+
+ 
+
+ Classification result for Post Nr. 243: 
+0
+non-MLM
+
+ 
+ Post Nr. 244 
+
+ 
+isagenix product recall in canada #scam #mlmfail #pyramidscheme #antimlm #antimlmmovement
+
+ 
+
+ Classification result for Post Nr. 244: 
+0
+non-MLM
+
+ 
+ Post Nr. 245 
+
+ 
+go watch this...brilliant §clapping_hands:light_skin_tone§ #scam #pyramidscheme #mlmfail #antimlm
+
+ 
+
+ Classification result for Post Nr. 245: 
+0
+non-MLM
+
+ 
+ Post Nr. 246 
+
+ 
+joined a new group today...first post i spot is someone talking about pruvit §exploding_head§ #scam #pyramidscheme #mlmfail #antimlm #antimlmmovement
+
+ 
+
+ Classification result for Post Nr. 246: 
+0
+non-MLM
+
+ 
+ Post Nr. 247 
+
+ 
+these posts are from the same arbonne consultant....personally since leaving arbonne i’ve managed to save a chunk of my salary which next year i hope to knock off my mortgage. i could never have achieved this while being pressurised to purchase products every month. i learnt my lesson & wish more mlmer’s would too, which is why i started this insta account. #scam #mlmfail #antimlm #antimlmmovement #pyramidscheme
+
+ 
+
+ Classification result for Post Nr. 247: 
+1
+MLM
+
+ 
+ Post Nr. 248 
+
+ 
+hun, you need 1,000 pqv to qualify for district manager. at an educated guess that rather large box you’re holding easily contains that, i sure your upline loves you & is cheering you on. #scam #mlmfail #antimlm #antimlmmovement #pyramidscheme
+
+ 
+
+ Classification result for Post Nr. 248: 
+0
+non-MLM
+
+ 
+ Post Nr. 249 
+
+ 
+i guess all arbonne consultant’s family & friends will be receiving the christmas range. §christmas_tree§§wrapped_gift§ when i was a consultant i’d buy my direct family the odd arbonne shower gel for christmas but when it came to friends i just couldn’t bring myself to give arbonne...i was too worried i’d look cheap & was trying to line my own pockets getting my personal sales volume up which would have been the truth. is it just me or did anyone else feel like this? #scam #mlmfail #antimlm #antimlmmovement #pyramidscheme
+
+ 
+
+ Classification result for Post Nr. 249: 
+1
+MLM
+
+ 
+ Post Nr. 250 
+
+ 
+i know i’ve said it before but i’ll say it again...the consultants are the customers! arbonne’s black friday is a scam in itself...they just get the consultants hyped up about ‘limited edition’ products that they have to buy if they want to sell them. i always thought black friday was about trying to grab a bargain not paying full price for a limited product §woman_shrugging:medium-light_skin_tone§ #scam #pyramidscheme #mlmfail #antimlm #antimlmmovement
+
+ 
+
+ Classification result for Post Nr. 250: 
+1
+MLM
+
+ 
+ Post Nr. 251 
+
+ 
+arbonne is an addiction, the more you spend, the more your uplines cheer you on. thank you to a follower for sending. #scam #mlmfail #antimlmmovement #antimlm #pyramidscheme
+
+ 
+
+ Classification result for Post Nr. 251: 
+1
+MLM
+
+ 
+ Post Nr. 252 
+
+ 
+i can’t actually believe what i’m seeing §eyes§. how many products??!! §see-no-evil_monkey§. thank you to a follower for sending. #scam #pyramidscheme #mlmfail #antimlm #antimlmmovement #productloading
+
+ 
+
+ Classification result for Post Nr. 252: 
+0
+non-MLM
+
+ 
+ Post Nr. 253 
+
+ 
+what is wrong with this picture...oh that’s right using children to sell your shitty pyramid scheme products §pouting_face§credit to reddit  #scam #mlmfail #pyramidscheme #antimlm #antimlmmovement #reddit
+
+ 
+
+ Classification result for Post Nr. 253: 
+0
+non-MLM
+
+ 
+ Post Nr. 254 
+
+ 
+facebook memories....i thought i’d deleted all my arbonne posts but now facebook remembers old stories too...oh no...world of cringe §see-no-evil_monkey§ §grimacing_face§
+
+ 
+
+ Classification result for Post Nr. 254: 
+1
+MLM
+
+ 
+ Post Nr. 255 
+
+ 
+umm, can anyone vouch for this nuskin hun’s claims?? #scam #pyramidscheme #antimlm #antimlmmovement
+
+ 
+
+ Classification result for Post Nr. 255: 
+0
+non-MLM
+
+ 
+ Post Nr. 256 
+
+ 
+omg, tik tok no longer allows any promotion of mlm’s. this is huge...report away guys, thank you to @deanna_mims6 for sharing, go check out her stories to find out more.§clapping_hands:light_skin_tone§§clapping_hands:light_skin_tone§
+
+ 
+
+ Classification result for Post Nr. 256: 
+0
+non-MLM
+
+ 
+ Post Nr. 257 
+
+ 
+sent to me from an antimlm facebook group. how ridiculous is this hun, she’s joking right??!! #antimlm #scam #mlmfail #pyramidscheme
+
+ 
+
+ Classification result for Post Nr. 257: 
+0
+non-MLM
+
+ 
+ Post Nr. 258 
+
+ 
+the highest up nvp’s in arbonne in the u.k. hold a christmas ‘red ball’ §woman_dancing:medium-light_skin_tone§ every year (apart from this year) it’s an incentive night out as only area managers & above are allowed to attend. however, the lower consultants can purchase a ticket to be there for the after party & pretend they were there all day. they take photos with the ‘famous’ nvp’s to plaster all over their social media to try & entice new recruits on their ‘paid for’ amazing night out in london. it’s just another opportunity for the higher ups to brainwash the consultants. the tickets sold at the after party are expensive & don’t even include food...so guess who is really paying for the nvp’s party? §thinking_face§#scam #mlmfail #antimlm #pyramidscheme
+
+ 
+
+ Classification result for Post Nr. 258: 
+0
+non-MLM
+
+ 
+ Post Nr. 259 
+
+ 
+merry fizzmas §woman_facepalming:medium-light_skin_tone§ credi:reddit #scam #mlmfail #antimlm #reddit #pyramidscheme
+
+ 
+
+ Classification result for Post Nr. 259: 
+0
+non-MLM
+
+ 
+ Post Nr. 260 
+
+ 
+this is one of the brainwashing tactics used in arbonne’s group chat’s to spur you on in ‘your business’. well they were right about one thing §exploding_head§§exploding_head§ double mind blown!! #scam #mlmfail #antimlm #antimlmmovement #pyramidscheme
+
+ 
+
+ Classification result for Post Nr. 260: 
+1
+MLM
+
+ 
+ Post Nr. 261 
+
+ 
+found this on reddit & it breaks my heart, hope this person gets out & ignores this gaslighting ‘advice’. being dm is a trap, you struggle to keep up with 2500 qv every month & put a big order in every month end so you don’t lose your status. i know as i was a dm for 18 months #reddit #mlmfail #pyramidscheme #antimlm #antimlmmovement #scam
+
+ 
+
+ Classification result for Post Nr. 261: 
+1
+MLM
+
+ 
+ Post Nr. 262 
+
+ 
+what the hell is this @antibeachbodycoach ? #reddit #scam #dietculture #mlmfail #pyramidscheme #antimlmmovement #antimlm
+
+ 
+
+ Classification result for Post Nr. 262: 
+0
+non-MLM
+
+ 
+ Post Nr. 263 
+
+ 
+doing my bit after seeing an fm world as in the local facebook jobs page, asking for 16 year olds! hope to hear back from admin soon, will keep you posted, hope i said the right thing.. #scam #mlmfail #antimlm #antimlmmovement #pyramidscheme
+
+ 
+
+ Classification result for Post Nr. 263: 
+0
+non-MLM
+
+ 
+ Post Nr. 264 
+
+ 
+happy new year, let’s hope 2021 is an improvement on 2020! at least we can enjoy new year’s eve rather than being stuck in a pyramid scheme trying to close out the ‘best month ever’ at midnight! #mlmfail #antimlm #antimlmmovememt #pyramidscheme #scam
+
+ 
+
+ Classification result for Post Nr. 264: 
+0
+non-MLM
+
+ 
+ Post Nr. 265 
+
+ 
+this is what i was referring to in my last post...this poor girl’s desperation on new year’s eve is no fun at all. #reddit #scam #mlmfail #antimlm #antimlmmovement #pyramidscheme
+
+ 
+
+ Classification result for Post Nr. 265: 
+0
+non-MLM
+
+ 
+ Post Nr. 266 
+
+ 
+this is on arbonne uk’s own facebook page today, they promote the dream of becoming nvp & encourage brainwashing using vision boards #scam #mlmfail #pyramidscheme #antimlm #antimlmmovement
+
+ 
+
+ Classification result for Post Nr. 266: 
+1
+MLM
+
+ 
+ Post Nr. 267 
+
+ 
+a rodan & fields rep messaged one of my lovely followers & wanted to know ‘why’ she wasn’t interested. this is a fab reply & i hope she heeds the warning...but let’s face it she probably won’t §woman_shrugging:medium-light_skin_tone§ #scam #mlmfail #antimlm #antimlmmovement #pyramidscheme
+
+ 
+
+ Classification result for Post Nr. 267: 
+0
+non-MLM
+
+ 
+ Post Nr. 268 
+
+ 
+this lady is at the tippy top of arbonne.we were told to listen to her on soundcloud & one of her sayings was ‘what do i bring to the table...the whole frinkin’ table...this is a multi million dollar opportunity’. 
+i’m not hiding her name as a 10 second google search brings up this document.  one of the first men to bring arbonne to the u.k. is also named on this document. the post is from a while ago so we’re not able to report it now.  full story link in my bio #scam #pyramidscheme #antimlm #antimlmmovement #mlmfail
+
+ 
+
+ Classification result for Post Nr. 268: 
+0
+non-MLM
+
+ 
+ Post Nr. 269 
+
+ 
+a mohun comparing monat to tesla...umm ok then shaming those who ‘fail’ thanks to a follower for sending #scam #mlmfail #antimlm #antimlmmovement #pyramidscheme
+
+ 
+
+ Classification result for Post Nr. 269: 
+1
+MLM
+
+ 
+ Post Nr. 270 
+
+ 
+i don’t know much about this research (being ex-arbonne) but i can see that consultants are going to be product testing...guessing results may be a bit biased. #scam #pyramidscheme #mlmfail #antimlm #antimlmmovement
+
+ 
+
+ Classification result for Post Nr. 270: 
+1
+MLM
+
+ 
+ Post Nr. 271 
+
+ 
+trying to work out this monat payslip, seems to be mostly bonus’s...probably from recruiting or promoting a certain amount of people in your downline & commission from her downline. #reddit #scam #antimlm #antimlmmovement #pyramidscheme #mlmfail
+
+ 
+
+ Classification result for Post Nr. 271: 
+1
+MLM
+
+ 
+ Post Nr. 272 
+
+ 
+this bonbabe (as she likes to call herself) is trying to lure girls into her downline with lots of promises including lifelong friendship. this really is disgusting, true friendships cannot by bought, they come from mutual respect, shared experiences & some fun thrown it, among other things. a strong foundation will not come from being in someone’s downline & they’ll drop you like a hot rock when you leave. as you can see from the last picture she’s no different from all consultants...they are the customers! #scam #pyramidscheme #mlmfail #antimlm #antimlmmovement
+
+ 
+
+ Classification result for Post Nr. 272: 
+0
+non-MLM
+
+ 
+ Post Nr. 273 
+
+ 
+wasn’t sure whether to post this or not. i found this on reddit, apparently this is a monat hun in a video flicking her hair not realising this was caught as a photo, it seems like a genuine post as the author talked about the situation...do you think this is genuine? is the hair loss really this bad? #mlmfail #antimlm #antimlmmovement #pyramidscheme #scam #reddit
+
+ 
+
+ Classification result for Post Nr. 273: 
+0
+non-MLM
+
+ 
+ Post Nr. 274 
+
+ 
+sick of hearing how mlm’s are pandemic or recession proof! no they are bloody not...nothing is! #scam #mlmfail #pyramidscheme #reddit #antimlm #antimlmmovement
+
+ 
+
+ Classification result for Post Nr. 274: 
+0
+non-MLM
+
+ 
+ Post Nr. 275 
+
+ 
+i’ve had a little look into zyia, the activewear mlm. the clothes themselves don’t look awful but it’s £395 to join & you are definitely encouraged to purchase more & model it on your social media. you can’t sell what you don’t have or hold a party without merchandise in different sizes. same old scam i’m afraid & i think it would turn out to be a money out. #scam #pyramidscheme #mlmfail #antimlm #antimlmmovement
+
+ 
+
+ Classification result for Post Nr. 275: 
+1
+MLM
+
+ 
+ Post Nr. 276 
+
+ 
+shame this old post isn’t still the case.
+my personal thoughts on the recent drama...i too used to correspond with said lady for months about antimlm content. i am fiercy loyal to my friends, including ‘internet’ friends so was surprised to be blocked with no explanation although i know now she wanted to get as least as possible negativity when she signed up for monat. i was also upset when she voiced that antimlmer’s are an extremist group that are not to be trusted.  #scam #mlmfail #antimlm #antimlmmovement #pyramidscheme
+
+ 
+
+ Classification result for Post Nr. 276: 
+1
+MLM
+
+ 
+ Post Nr. 277 
+
+ 
+is it under an umbrella §umbrella§ that looks a bit like a pyramid §upwards_button§ ? #scam #pyramidscheme #mlmfail #antimlm #antimlmmovement
+
+ 
+
+ Classification result for Post Nr. 277: 
+0
+non-MLM
+
+ 
+ Post Nr. 278 
+
+ 
+a certain youtuber saying that #antimlm are an extremist group. #pyramidscheme #scam #antimlmmovement
+
+ 
+
+ Classification result for Post Nr. 278: 
+0
+non-MLM
+
+ 
+ Post Nr. 279 
+
+ 
+grrr! avon advert, more money...they’ll be lucky to break even . #pyramidscheme #scam #mlmfail #antimlm #antimlmmovement
+
+ 
+
+ Classification result for Post Nr. 279: 
+0
+non-MLM
+
+ 
+ Post Nr. 280 
+
+ 
+this mohun is in debt with her car, (that she was given §woman_facepalming:medium-light_skin_tone§) so she took out a loan to purchase it & monat pays an amount to cover or part cover the cost of the monthly payments. that’s playing with fire because if you drop a rank you lose your payments & have to pay them yourself. i’ve heard of some huns having their cars repossessed because this precise reason. getting the car is just a trap to keep you working 24/7. the ‘got to spend money to make money’ is a mantra in mlm’s #scam #reddit #mlmfail #antimlm #antimlmmovement #pyramidscheme
+
+ 
+
+ Classification result for Post Nr. 280: 
+1
+MLM
+
+ 
+ Post Nr. 281 
+
+ 
+isn’t this an income claim even with an ‘income disclosure’? who the hell waves their pay cheque  around & posts it on insta? #scam #mlmfail #antimlmmovement #antimlm #pyramidscheme
+
+ 
+
+ Classification result for Post Nr. 281: 
+0
+non-MLM
+
+ 
+ Post Nr. 282 
+
+ 
+i can’t believe i’m seeing this from a herbashit cafe, they’re that desperate for sales! this is what i hate about mlm’s, their consultants are so brainwashed all decency goes out the window§weary_face§ #reddit #scam #pyramidscheme #antimm #antimlmmovement #mlmfail
+
+ 
+
+ Classification result for Post Nr. 282: 
+0
+non-MLM
+
+ 
+ Post Nr. 283 
+
+ 
+§orange_heart§ i’m here for you if you want to talk, about leaving an mlm, your experiences, life in general & anything inbetween. i set up this account to help & raise awareness & i’m ready to listen. #antimlm #antimlmmovement
+
+ 
+
+ Classification result for Post Nr. 283: 
+0
+non-MLM
+
+ 
+ Post Nr. 284 
+
+ 
+k’s new upline is making income claims without an income disclosure statement, and as you can see  from the date this was not long ago. #scam #mlmfail #antimlm #antimlmmovement #pyramidscheme #incomeclaims
+
+ 
+
+ Classification result for Post Nr. 284: 
+0
+non-MLM
+
+ 
+ Post Nr. 285 
+
+ 
+i’ve been talking in my stories about this but thought it was worth a post. i’m disgusted that a certain someone has accused antimlm youtube content creators of cashing in on their content. these fab you tubers are doing a great job spreading the word & deserve to earn on their content as much as the next person, they put so much time & effort into it. just because you only think of the money don’t tar everyone else with the same brush! i’m really getting fed up with this toxic woman. #antimlm #antimlmmovement #scam #scammer #mlmfail #pyramidscheme
+
+ 
+
+ Classification result for Post Nr. 285: 
+0
+non-MLM
+
+ 
+ Post Nr. 286 
+
+ 
+no, give your money to the nurses or nhs, not to a tropic hun just trying to get her sales volumes up. saw lots of this in arbonne (1 hun’s upline qualified for nvp (top level) in the u.k. after doing the same), it’s a disgusting sales tactic profiting off the pandemic. #reddit #mlmfail #pyramidscheme #antimlm #antimlmmovement #scam #charityscam
+
+ 
+
+ Classification result for Post Nr. 286: 
+1
+MLM
+
+ 
+ Post Nr. 287 
+
+ 
+where to begin unpacking this §thinking_face§. joining arbonne is not like opening an amazon account...amazon doesn’t brainwash you & pester you 24/7 to reach your goals. the training is not free, you pay for it with a percentage of your sales. #scam #mlmfail #antimlm #antimlmmovement #pyramidscheme
+
+ 
+
+ Classification result for Post Nr. 287: 
+1
+MLM
+
+ 
+ Post Nr. 288 
+
+ 
+like a true boss babe. for the record i am not a hater, i am concerned about the number of women you will recruit in your downline that will lose money (umm & hair). you yourself were not keen on the products a few months ago so we know this is just another money spinner for you.  edit: see my stories for a comment on this post that a follower sent me before it was deleted. #scam #scammer #mlmfail #antimlm #antimlmmovement #pyramidscheme
+
+ 
+
+ Classification result for Post Nr. 288: 
+1
+MLM
+
+ 
+ Post Nr. 289 
+
+ 
+yummy arbonne protein muffins anyone? §pile_of_poo§ #mlmfail #antimlm #antimlmmovement #pyramidscheme #scam #reddit
+
+ 
+
+ Classification result for Post Nr. 289: 
+1
+MLM
+
+ 
+ Post Nr. 290 
+
+ 
+wow, woke up to 1,500 followers this morning. i started this little account just under a year ago. i’d only just dipped my toe in the antimlm community then and was amazed how welcome i was made to feel by everyone. well 1 year on we’ve had lockdowns, dramas, ups & downs but we’re still going strong. thank you to all my followers & fellow antimlmer’s...onwards & upwards we go. #antimlm #antimlmmovement #scam #pyramidscheme
+
+ 
+
+ Classification result for Post Nr. 290: 
+0
+non-MLM
+
+ 
+ Post Nr. 291 
+
+ 
+some of the high up nvp’s add extra incentives to their down lines to the make them work harder (or spend more money). this document shows that the emphasis is on recruiting, go up a level & get an extra special gift. my uplines used to do this but was usually for an re9 set or an invite to a party. worth mentioning that the new consultants only count if they spend $500!.thank you to a lovely follower for sending me this. #scam #pyramidscheme #antimlm #antimlmmovement #mlmfail
+
+ 
+
+ Classification result for Post Nr. 291: 
+0
+non-MLM
+
+ 
+ Post Nr. 292 
+
+ 
+thank you to the lovely @markramos1216 for sending me this...this brobot literally turns his downline into family... so romantic ...he proposed to his wife at an ariix convention §grimacing_face§. #scam #mlmfail #pyramidscheme #antimlm #antimlmmovement
+
+ 
+
+ Classification result for Post Nr. 292: 
+0
+non-MLM
+
+ 
+ Post Nr. 293 
+
+ 
+having a bit of fun to cheer up our monday...mlm fashion school here we come...i’ve got my favourite...which is yours? i give you a clue, these are from the girl who claims to make money on the toilet! now that conjures up all sorts of images but we won’t go there now §pile_of_poo§§grimacing_face§. please go to my stories & vote for your favourite or comment below. i#antimlm #mlmfail #pyramidscheme #scam #antimlmmovement
+
+ 
+
+ Classification result for Post Nr. 293: 
+0
+non-MLM
+
+ 
+ Post Nr. 294 
+
+ 
+this has got my attention...as well as  this being a nonsense health claim by a juice plus hun...babies should not be given chews...they can very easily choke! this is the second baby related issue i’ve seen in a week, the last one poured scentsy melted wax over her baby’s head & face...wtf is wrong with these people?! §pouting_face§ #scam #mlmfail #antimlm #antimlmmovement #pyramidscheme #healthclaim #reddit
+
+ 
+
+ Classification result for Post Nr. 294: 
+0
+non-MLM
+
+ 
+ Post Nr. 295 
+
+ 
+friendly hun that was banned on a reddit sub for trying to shill monat. desperation to promote leads some consultants to actions they would have never dreamt about before joining an mlm §grimacing_face§ #reddit #mlmfail #antimlm #antimlmmovement #pyramidscheme #scam
+
+ 
+
+ Classification result for Post Nr. 295: 
+1
+MLM
+
+ 
+ Post Nr. 296 
+
+ 
+aac sept 2019 in birmingham, u.k. i spent a lot of money to be there with travel (over £600), it’s supposed to motivate you to build your business but this was the beginning of the end for me, i didn’t enjoy it, it was so fake & materialist & it opened my eyes to the brainwashing in mlms #scam #mlmfail #antimlm #antimlmmovement #pyramidscheme
+
+ 
+
+ Classification result for Post Nr. 296: 
+0
+non-MLM
+
+ 
+ Post Nr. 297 
+
+ 
+a follower asked me to share this statement of her arbonne cash in & outs for last year as she’d like to warn potential consultants of the financial danger of joining. this is the financial loss of $6,307.77 for the year. thank you so much to this lovely follower for sharing her story with me so we can help others. i’m sure her upline did well out of the products she purchased...please share this post to warn people of this scamming company. #scam #mlmfail #antimlm #antimlmmovement #pyramidscheme
+
+ 
+
+ Classification result for Post Nr. 297: 
+0
+non-MLM
+
+ 
+ Post Nr. 298 
+
+ 
+comparing yourself to mollie-mae (u.k. celeb for those across the pond). this women is at the top of the company & is scamming hundreds of women, she is also bullying ex-mlmers  for speaking out. go watch laura dos santos for more info. #poonique #mlmfail #antimlm #antimlmmovement #pyramidscheme #scam
+
+ 
+
+ Classification result for Post Nr. 298: 
+0
+non-MLM
+
+ 
+ Post Nr. 299 
+
+ 
+let’s break this down:-
+
+be your own boss - no you are a contractor
+earn amazing trips - only if you are in the top 0.01% of arbonne...even some of the nvp’s don’t manage it
+leverage your time - you will be working unsociable hours for nil guaranteed pay
+build and inspire a team - if you can get anyone to join your team! after you try to recruit your family and friends you will resort to cold messaging which is just embarrassing.
+help others meet their health and nutrition goals - you are not qualified to do this.
+save for a vacation - the only thing you will be buying with your commissions (if any) will be more  products.
+make some extra monthly income - see above
+
+#scam #pyramidscheme #mlmfail #antimlm #antimlmmovement
+
+ 
+
+ Classification result for Post Nr. 299: 
+1
+MLM
+
+ 
+ Post Nr. 300 
+
+ 
+these are all pictures are ones i’ve posted about before but can i just say again...why do reps feel it’s ok to promote there crappy products using their children’s pictures & in in some cases their ailments. they are so desperate for sales they can’t see how wrong this is (i blocked out the faces in 2 of these because they didn’t). creds to @mlm_horror_stories for picture no3) #scam #pyramidscheme #mlmfail #reddit #antimlm #antimlmmovement
+
+ 
+
+ Classification result for Post Nr. 300: 
+0
+non-MLM
+
+ 
+ Post Nr. 301 
+
+ 
+in my mind this is a circle of recruitment...they’ll all be trying to sell & recruit each other §face_with_tears_of_joy§ #scam #reddit #mlmfail #antimlm #antimlmmovement
+
+ 
+
+ Classification result for Post Nr. 301: 
+0
+non-MLM
+
+ 
+ Post Nr. 302 
+
+ 
+nvp’s tactics...work shaming as usual...check out my stories for more manipulative nonsense she’s spouting...something about comparing mlm’s to dishwashers §rolling_on_the_floor_laughing§ #scam #pyramidscheme #mlmfail #antimlm #antimlmmovement
+
+ 
+
+ Classification result for Post Nr. 302: 
+0
+non-MLM
+
+ 
+ Post Nr. 303 
+
+ 
+wow @itworksadventureintl what are you going to do about this? this is what i mean when i say mlm’s bring out the worse it people #reddit #mlmfail #antimlm #antimlmmovement #scam
+
+ 
+
+ Classification result for Post Nr. 303: 
+0
+non-MLM
+
+ 
+ Post Nr. 304 
+
+ 
+since sharing dm’s is what we do now.....those were all voicemail messages full of accusations and lies about other antimlm ig accounts, berating me for having an anonymous account & accusing me of being in a chat group that i’ve never heard of but hey, i’ve got no proof of that now have i.  #scam #antimlm
+
+ 
+
+ Classification result for Post Nr. 304: 
+1
+MLM
+
+ 
+ Post Nr. 305 
+
+ 
+arbonne offering a team building reward. just more proof that you need a team under you to succeed. #scam #pyramidscheme #mlmfail #antimlm #antimlmmovement #banthescam
+
+ 
+
+ Classification result for Post Nr. 305: 
+1
+MLM
+
+ 
+ Post Nr. 306 
+
+ 
+brainwashing disguised as a podcast training session which you have to pay for. i’m so fed up with seeing these fake ass training courses which are just a scam within a scam. #antimlm #antimlmmovement #mlmfail #scam #pyramidscheme #banthescam
+
+ 
+
+ Classification result for Post Nr. 306: 
+0
+non-MLM
+
+ 
+ Post Nr. 307 
+
+ 
+arbonne sell the consultants on the pretext of ‘be your own boss’ & ‘build your business’. it is not your business, arbonne is lying to you. #scam #mlmfail #antimlmmovement #antimlm #pyramidscheme #banthescam
+
+ 
+
+ Classification result for Post Nr. 307: 
+1
+MLM
+
+ 
+ Post Nr. 308 
+
+ 
+not all but a large percentage of antimlm advocates have been in an mlm, do we beat ourselves up for our past actions...no we’ve moved on, are raising awareness & helping others who are trying to leave or have just left their mlm. we are not bitter, jealous or haters...just the opposite in fact. #mlmfail #antimlm #antimlmmovement #scam #pyramidscheme #banthescam
+
+ 
+
+ Classification result for Post Nr. 308: 
+0
+non-MLM
+
+ 
+ Post Nr. 309 
+
+ 
+looking forward to watching this @abbeyskitchen #antimlm
+
+ 
+
+ Classification result for Post Nr. 309: 
+0
+non-MLM
+
+ 
+ Post Nr. 310 
+
+ 
+the usual arbonne fake lifestyle promise...friendships, trips & cars! thank you to a follower for sending me this. #scam #pyramidscheme #mlmfail #antimlm #antimlmmovement #banthescam
+
+ 
+
+ Classification result for Post Nr. 310: 
+1
+MLM
+
+ 
+ Post Nr. 311 
+
+ 
+repost from @ethicalelephant. i’d like to draw your attention to the first one on the list...yves rocher not being cruelty free...they own arbonne. arbonne pride themselves by their ethics & being a cruelty free brand so why did they sellout to yves rocher? #scam #crueltyfree #mlmfail #antimlm #antimlmmovement #pyramidscheme #banthescam
+
+ 
+
+ Classification result for Post Nr. 311: 
+1
+MLM
+
+ 
+ Post Nr. 312 
+
+ 
+almost self-aware but not quite...if you need a job to fund your business does that not tell you something? waiting for the penny to drop §thinking_face§#reddit #scam #mlmfail #antimlm #antimlmmovement #pyramidscheme #banthescam
+
+ 
+
+ Classification result for Post Nr. 312: 
+0
+non-MLM
+
+ 
+ Post Nr. 313 
+
+ 
+oh yes monat hun, my life goal is to hang myself out of a car window whilst being trapped in a pyramid scheme scamming other women. thank you to friend @markramos1216  for sending. #lifegoals #mlmfail #pyramidscheme #antimlm #antimlmmovement #banthescam #scam
+
+ 
+
+ Classification result for Post Nr. 313: 
+1
+MLM
+
+ 
+ Post Nr. 314 
+
+ 
+yes oops, you are spending more than you earn, i’m not surprised you can’t afford it. please be aware this is typical of an arbonne consultant, ordering large boxes of products to showcase or try to sell but struggling financially because only the top 2% will make any money at all. thank you to a lovely follower for sending. #pyramidscheme #mlmfail #antimlm #antimlmmovement #scam #banthescam
+
+ 
+
+ Classification result for Post Nr. 314: 
+1
+MLM
+
+ 
+ Post Nr. 315 
+
+ 
+someone’s had their feathers ruffled. @charlottenaomi3 knew exactly what she was saying...the truth! we just wish she’d had a little longer on air to put her point across. the fact she was in the business only 4 months does not matter, she’s done her research...i was in the business for 20 months & worked my ass off...is that enough experience for you? §woman_facepalming:medium-light_skin_tone§#scam #pyramidscheme #banthescam #thismorning #reddit #mlmfail #antimlm #antimlmmovement
+
+ 
+
+ Classification result for Post Nr. 315: 
+1
+MLM
+
+ 
+ Post Nr. 316 
+
+ 
+please don’t give your dog plexus...i’m sure this is a joke but i wouldn’t put anything past these huns. #scam #mlmfail #antimlm #antimlmmovement #pyramidscheme #banthescam
+
+ 
+
+ Classification result for Post Nr. 316: 
+0
+non-MLM
+
+ 
+ Post Nr. 317 
+
+ 
+so what’s wrong with average...average can be pretty good you know. what’s wrong with an average job, as least it’s honest & not taking advantage of others. just stop §stop_sign§ #pyramidscheme #scam #banthescam #antimlm #antimlmmovement #mlmfail
+
+ 
+
+ Classification result for Post Nr. 317: 
+0
+non-MLM
+
+ 
+ Post Nr. 318 
+
+ 
+is it me or does this arbonne hun contradict herself on every one of these points she’s trying to make? #scam #mlmfail #antimlm #antimlmmovement #pyramidscheme #banthescam
+
+ 
+
+ Classification result for Post Nr. 318: 
+1
+MLM
+
+ 
+ Post Nr. 319 
+
+ 
+makes me laugh when they don’t know their ‘own business’ §face_with_rolling_eyes§. arbonne are committed to being waste free by 2025 not 2023 ! #scam #mlmfail #antimlm #antimlmmovement #pyramidscheme #banthescam
+
+ 
+
+ Classification result for Post Nr. 319: 
+1
+MLM
+
+ 
+ Post Nr. 320 
+
+ 
+go see @thefuckitdiet stories...lots of mlm horror stories. if you’ve been following me for any length of time you’ll know that these charity scams are what made me start this account in the first place.  #scam #mlmfail #charityscam #banthescam #antimlm #antimlmmovement #pyramidscheme
+
+ 
+
+ Classification result for Post Nr. 320: 
+0
+non-MLM
+
+ 
+ Post Nr. 321 
+
+ 
+this is triggering for me as i suffered  with ibs for years, it was depilating & yes it stopped me working at one stage, stopped me going on trips & even the cinema. do not cash in on people’s illnesses or disabilities...not cool! #scam #banthescam #mlmfail #antimlmmovement #antimlm #pyramidscheme #reddit
+
+ 
+
+ Classification result for Post Nr. 321: 
+1
+MLM
+
+ 
+ Post Nr. 322 
+
+ 
+reason number 56 why i left arbonne...disgusting training call §stop_sign§ trigger warning for abortion §stop_sign§ wasn’t sure whether to post this but i just wanted to let you know the lengths the consultants have to go to to promote & keep recruiting & the manipulation that goes on inside this business. i felt sorry for this lady & her situation but to exploit her story to recruit consultants is just not on.  #scam #banthescam #pyramidscheme #antimlm #antimlmmovement #mlmfail
+
+ 
+
+ Classification result for Post Nr. 322: 
+1
+MLM
+
+ 
+ Post Nr. 323 
+
+ 
+poor pup, he looks terrified #scam #reddit #mlmfail #antimlm #antimlmmovement #pyramidscheme
+
+ 
+
+ Classification result for Post Nr. 323: 
+0
+non-MLM
+
+ 
+ Post Nr. 324 
+
+ 
+if i knew what i know now, would i have sought out wifi on a beach while on holiday just to watch a arbonne weekly whipping training call (this picture was the invite). if i’d known that would be my last holiday for who knows how long...a few years at least...would i have ignored my children for even that one hour while they played in the sea with their dad & the rest of the family? i think you know the answer...don’t join a company where you can ‘work anywhere’ or you will just work everywhere. ps, i was just making this guy richer! #scam #mlmfail #antimlm #antimlmmovement #banthescam #pyramidscheme
+
+ 
+
+ Classification result for Post Nr. 324: 
+1
+MLM
+
+ 
+ Post Nr. 325 
+
+ 
+this nvp is at the top of arbonne, looking at the women who have literally helped her get to the top. has she actually ‘helped’ them though? she will only commit to training you if you purchase £240 worth of products otherwise she’ll be wasting her time as you’re not serious about your business. #scam #banthescam #mlmfail #antimlm #antimlmmovement #pyramidscheme
+
+ 
+
+ Classification result for Post Nr. 325: 
+1
+MLM
+
+ 
+ Post Nr. 326 
+
+ 
+arbonne upline blaming their downline for not making any money...you don’t believe you can do it, you don’t work hard enough, you don’t send enough dm’s, stop watching netflix, stop making excuses! #scam #reddit #banthescam #mlmfail #antimlmmovement #pyramidscheme #antimlm
+
+ 
+
+ Classification result for Post Nr. 326: 
+1
+MLM
+
+ 
+ Post Nr. 327 
+
+ 
+what do we think about doctor’s being arbonne reps? #scam #banthescam #mlmfail #antimlm #antimlmmovement #pyramidscheme
+
+ 
+
+ Classification result for Post Nr. 327: 
+1
+MLM
+
+ 
+ Post Nr. 328 
+
+ 
+yes! fab article...antimlm has made the bbc news in u.k. @charlottenaomi3 §clapping_hands:light_skin_tone§§clapping_hands:light_skin_tone§§clapping_hands:light_skin_tone§ #antimlm #bbcnews #mlmfail #antimlmmovement #pyramidscheme #scam #banthescam
+
+ 
+
+ Classification result for Post Nr. 328: 
+0
+non-MLM
+
+ 
+ Post Nr. 329 
+
+ 
+my bad...i didn’t realise it was a ‘helping triangle’ §woman_facepalming:medium-light_skin_tone§ §warning§ #pyramidscheme #mlmfail #scam #antimlm #antimlmmovement #banthescam
+
+ 
+
+ Classification result for Post Nr. 329: 
+0
+non-MLM
+
+ 
+ Post Nr. 330 
+
+ 
+can’t we just have friends to be friends anymore? this post is job shaming, friend shaming & insinuating you should only have friends in your ‘network’ that you can make money off. i can’t even with these people §woman_facepalming:medium-light_skin_tone§ #scam #pyramidscheme #mlmfail #antimlm #antimlmmovement #banthescam #reddit
+
+ 
+
+ Classification result for Post Nr. 330: 
+0
+non-MLM
+
+ 
+ Post Nr. 331 
+
+ 
+end of month panic...if you join arbonne this is the sort of pressure you’ll get on a sunday night. you must hit your qv at month end (your uplines certainly need too) otherwise, commissions will be lost, cars will be gone & you will lose all respect from all the boss babes of the sisterhood. #pyramidscheme #scam #mlmfail #antimlm #antimlmmovement #banthescam
+
+ 
+
+ Classification result for Post Nr. 331: 
+1
+MLM
+
+ 
+ Post Nr. 332 
+
+ 
+arbonne reps literally prey on anyone, even someone suffering the lost of a miscarriage. they are so desperate for their business to succeed they will resort to this disgusting behaviour. #pyramidscheme #scam #mlmfail #antimlm #antimlmmovement #banthescam
+
+ 
+
+ Classification result for Post Nr. 332: 
+1
+MLM
+
+ 
+ Post Nr. 333 
+
+ 
+thank you to another ex-arbonne consultant (like me) for sending me this story. this shows how the higher ups brainwash & scam those below into thinking they are helping others set up a business that is a flawed model. we live & learn and we are just glad to be out. #scam #pyramidscheme #mlmfail #antimlm #antimlmmovement #banthescam
+
+ 
+
+ Classification result for Post Nr. 333: 
+1
+MLM
+
+ 
+ Post Nr. 334 
+
+ 
+envp doesn’t let a pesky ‘pyramid scheme’ lawsuit against her get in the way of her brainwashing ‘level up’ training sessions.  i’m not hiding her name as she is literally the top of arbonne & a public figure. ps...what is i am becoming? §woman_facepalming:medium-light_skin_tone§§face_with_tears_of_joy§ #pyramidscheme #scam #mlmfail #antimlm #antimlmmovement #banthescam
+
+ 
+
+ Classification result for Post Nr. 334: 
+1
+MLM
+
+ 
+ Post Nr. 335 
+
+ 
+arbonne launched new blushers at the weekend...who buys them....the consultants...because they §clapping_hands:light_skin_tone§ are §clapping_hands:light_skin_tone§ the §clapping_hands:light_skin_tone§ customers #scam #banthescam #pyramidscheme #mlmfail #antimlm #antimlmmovement
+
+ 
+
+ Classification result for Post Nr. 335: 
+1
+MLM
+
+ 
+ Post Nr. 336 
+
+ 
+manipulation to buy products, lying about your business & cult tactics...all here in less than 1 minute of aac training by the top earner globally in arbonne. as she says...unbelievable! #pyramidscheme #antimlm #antimlmmovement #scam #banthescam #mlmfail
+
+ 
+
+ Classification result for Post Nr. 336: 
+1
+MLM
+
+ 
+ Post Nr. 337 
+
+ 
+had to share this as it made me laugh, monat huns grasping at straws §face_with_tears_of_joy§ #reddit #mlmfail #pyramidscheme #antimlm #antimlmmovement #scam #banthescam
+
+ 
+
+ Classification result for Post Nr. 337: 
+1
+MLM
+
+ 
+ Post Nr. 338 
+
+ 
+advice from the top to a struggling ic who already feels like she’s alienating people. the uplines never actually help & tell you want to do...just want it more, work more & message more. i hope this lady has left by now without losing money & friends. #reddit #mlmfail #pyramidscheme #scam #banthescam #antimlm #antimlmmovement
+
+ 
+
+ Classification result for Post Nr. 338: 
+0
+non-MLM
+
+ 
+ Post Nr. 339 
+
+ 
+enough said #reddit #mlmfail #pyramidscheme #antimlm #antimlmmovement #scam #banthescam
+
+ 
+
+ Classification result for Post Nr. 339: 
+0
+non-MLM
+
+ 
+ Post Nr. 340 
+
+ 
+medical claims right here @plexusworldwide  #mlmfail #scam #antimlm #antimlmmovement #pyramidscheme #banthescam #medicalclaims
+
+ 
+
+ Classification result for Post Nr. 340: 
+0
+non-MLM
+
+ 
+ Post Nr. 341 
+
+ 
+makes joining an mlm sound perfect right? it would be if any of these point were true! this  u.k. arbonne envp is the top earner in the u.k. but she’s still trying to recruit new ic’s & scam people out of their money. #scam #mlmfail #antimlmmovement #antimlm #pyramidscheme #banthescam
+
+ 
+
+ Classification result for Post Nr. 341: 
+0
+non-MLM
+
+ 
+ Post Nr. 342 
+
+ 
+what do you guys think of this post on international women’s day made by the top earner globally in arbonne. do you think this empowers women or berates them? #scam #mlmfail #empoweringwomen #antimlm #antimlmmovement #antimlm #banthescam
+
+ 
+
+ Classification result for Post Nr. 342: 
+0
+non-MLM
+
+ 
+ Post Nr. 343 
+
+ 
+acti-labs advert in my local community, didn’t even know they were in the u.k. §flushed_face§ as a follower pointed out, it’s not a pyramid scheme, it’s a ladder scheme §face_with_tears_of_joy§ #scam #antimlm #banthescam #antimlmmovement #mlmfail #pyramidscheme
+
+ 
+
+ Classification result for Post Nr. 343: 
+0
+non-MLM
+
+ 
+ Post Nr. 344 
+
+ 
+with reference to my previous post... i reported this acti-labs advert to facebook and they took it down....so keep reporting guys. #scam #banthescam #mlmfail #antimlm #antimlmmovement #pyramidscheme
+
+ 
+
+ Classification result for Post Nr. 344: 
+0
+non-MLM
+
+ 
+ Post Nr. 345 
+
+ 
+disappointed that @goodhousekeepinguk are supporting a pyramid scheme where 99% of consultants lose money. #scam #banthescam #goodhousekeepingmagazine #pyramidscheme #antimlm #antimlmmovement #mlmfail
+
+ 
+
+ Classification result for Post Nr. 345: 
+0
+non-MLM
+
+ 
+ Post Nr. 346 
+
+ 
+one of my cringeworthy posts from 2 years ago today...thanks facebook memories...how i kept my facebook friends i don’t know §grimacing_face§§woman_facepalming:medium-light_skin_tone§ #scam #antimlm #antimlmmovement #mlmfail #banthescam #pyramidscheme
+
+ 
+
+ Classification result for Post Nr. 346: 
+1
+MLM
+
+ 
+ Post Nr. 347 
+
+ 
+ewww a bit too much information & the hashtags are pretty funny §smiling_face_with_horns§§kiss_mark§§eggplant§ #scam #mlmfail #antimlmmovement #antimlm #reddit #banthescam #pyramidscheme
+
+ 
+
+ Classification result for Post Nr. 347: 
+0
+non-MLM
+
+ 
+ Post Nr. 348 
+
+ 
+zyia canada consultant...i thought you didn’t have to carry inventory??? at those prices that’s a lot of money to put out that you might not get back §flushed_face§ #scam #mlmfail #antimlm #antimlmmovement #pyramidscheme #banthescam
+
+ 
+
+ Classification result for Post Nr. 348: 
+1
+MLM
+
+ 
+ Post Nr. 349 
+
+ 
+nuskin trying to recruit...she goes to my gym too §grimacing_face§#scam #mlmfail #antimlm #antimlmmovement #pyramidscheme #banthescam
+
+ 
+
+ Classification result for Post Nr. 349: 
+0
+non-MLM
+
+ 
+ Post Nr. 350 
+
+ 
+new video out today §raising_hands:light_skin_tone§ @thefinancialdiet #pyramidscheme #antimlm #antimlmmovement #scam #banthescam #mlmfail #thefinancialdiet
+
+ 
+
+ Classification result for Post Nr. 350: 
+0
+non-MLM
+
+ 
+ Post Nr. 351 
+
+ 
+are you celebrating st patrick’s day? §four_leaf_clover§ would you like a shamrock shake? you’ll have to buy ariix giving greens for $82...but hey, it’ll be totally worth it...yeah?? thanks to @markramos1216 for submitting §green_heart§ #mlmfail #antimlm #antimlmmovement #pyramidscheme #banthescam #scam
+
+ 
+
+ Classification result for Post Nr. 351: 
+1
+MLM
+
+ 
+ Post Nr. 352 
+
+ 
+oops, don’t let anybody infiltrate your zoom call because they might find out what scammers you are!  #antimlm #antimlmmovement #mlmfail #scam #banthescam #scam #reddit
+
+ 
+
+ Classification result for Post Nr. 352: 
+0
+non-MLM
+
+ 
+ Post Nr. 353 
+
+ 
+borrowed from anti mlm coalition, please go follow them on twitter. is this empowering women lipsense? #pyramidscheme #antimlm #antimlmmovement #mlmfail #scam #banthescam
+
+ 
+
+ Classification result for Post Nr. 353: 
+0
+non-MLM
+
+ 
+ Post Nr. 354 
+
+ 
+arbonne’s ceo is stepping down & nuskin’s ceo is stepping in. jumping from one pyramid to another! thanks to a follower for sending. #pyramidscheme #antimlm #antimlmmovement #scam #banthescam #mlmfail
+
+ 
+
+ Classification result for Post Nr. 354: 
+0
+non-MLM
+
+ 
+ Post Nr. 355 
+
+ 
+is it just me or does anyone find these arbonne consultants posing a bit strange. i get the open mouth expression is supposed to be showing excitement of the product but i just don’t get it...looks so forced & false to me §woman_shrugging:medium-light_skin_tone§ at least these girls have nice teeth §beaming_face_with_smiling_eyes§ #pyramidscheme #scam #banthescam #mlmfail #antimlm #antimlmmovement
+
+ 
+
+ Classification result for Post Nr. 355: 
+1
+MLM
+
+ 
+ Post Nr. 356 
+
+ 
+this arbonne regional vice president’s kitchen cupboard is nearly as impressive as her bathroom cabinet. this is product loading my friends, literally thousands of $’s worth of products! thank you to a follower for sending. #mlmfail #pyramidscheme #scam #banthescam #antimlm #antimlmmovement
+
+ 
+
+ Classification result for Post Nr. 356: 
+1
+MLM
+
+ 
+ Post Nr. 357 
+
+ 
+this is the same person posting today...she’s been in zyia for a while but possibly now joining arbonne too...yikes!! §woman_facepalming:medium-light_skin_tone§ #pyramidscheme #mlmfail #scam #banthescam #antimlm #antimlmmovement
+
+ 
+
+ Classification result for Post Nr. 357: 
+1
+MLM
+
+ 
+ Post Nr. 358 
+
+ 
+bit of an aggressive post from a monat  partner §grimacing_face§ #scam #pyramidscheme #mlmfail #antimlm #antimlmmovement #banthescam
+
+ 
+
+ Classification result for Post Nr. 358: 
+1
+MLM
+
+ 
+ Post Nr. 359 
+
+ 
+arbonne consultants are to be trained by the sas §woman_shrugging:medium-light_skin_tone§ #scam #banthescam #mlmfail #antimlm #antimlmmovement #pyramidscheme
+
+ 
+
+ Classification result for Post Nr. 359: 
+1
+MLM
+
+ 
+ Post Nr. 360 
+
+ 
+in black & white guys....’build your business’ shop here. #scam #pyramidscheme #mlmfail #banthescam #antimlm #antimlmmovement
+
+ 
+
+ Classification result for Post Nr. 360: 
+0
+non-MLM
+
+ 
+ Post Nr. 361 
+
+ 
+this must be an april fool’s day post...really...no...ok just a false itworks medical claim post to reverse ‘ aging ‘ §woman_facepalming:medium-light_skin_tone§ #reddit #scam #banthescam #antimlm #antimlmmovement #mlmfail #falsemedicalclaims
+
+ 
+
+ Classification result for Post Nr. 361: 
+0
+non-MLM
+
+ 
+ Post Nr. 362 
+
+ 
+wow i had no idea there was an enrolment option of cad$2,400 for zyia active and you know that will be the option your new upline will recommend if a) you want the best value & b) if you are serious about your business. #scam #pyramidscheme #mlmfail #antimlm #antimlmmovement
+
+ 
+
+ Classification result for Post Nr. 362: 
+1
+MLM
+
+ 
+ Post Nr. 363 
+
+ 
+2 more examples of arbonne nvp consultants proving they are the customers. also, it is not your store, or in fact your business. #scam #mlmfail #pyramidscheme #antimlm #antimlmmovement #banthescam
+
+ 
+
+ Classification result for Post Nr. 363: 
+1
+MLM
+
+ 
+ Post Nr. 364 
+
+ 
+a collect of an mlmer’s insta posts...job shaming, etc. this belittling of their friends & followers sounds like a sure fire way of recruiting doesn’t it §woman_facepalming:medium-light_skin_tone§ #scam #mlmfail #antimlm #antimlmmovement #banthescam #pyramidscheme
+
+ 
+
+ Classification result for Post Nr. 364: 
+0
+non-MLM
+
+ 
+ Post Nr. 365 
+
+ 
+@voguemagazine promoting a pyramid scheme product. disappointing. come on vogue, you can do better than this, aren’t you an advocate for empowering women? #mlmfail #antimlm #pyramidscheme #antimlmmovement #scam #banthescam
+
+ 
+
+ Classification result for Post Nr. 365: 
+0
+non-MLM
+
+ 
+ Post Nr. 366 
+
+ 
+just had to share as this made me laugh, this consultant is waffling on about arbonne’s recycling and then read the last paragraph. §woman_facepalming:medium-light_skin_tone§§face_with_tears_of_joy§ #scam #pyramidscheme #mlmfail #antimlm #antimlmmovement #banthescam
+
+ 
+
+ Classification result for Post Nr. 366: 
+1
+MLM
+
+ 
+ Post Nr. 367 
+
+ 
+lol!! where do they get these figures from? do they dream them up? §woman_shrugging:medium-light_skin_tone§§see-no-evil_monkey§§face_with_tears_of_joy§ #reddit #scam #pyramidscheme #mlmfail #antimlm #antimlmmovement
+
+ 
+
+ Classification result for Post Nr. 367: 
+0
+non-MLM
+
+ 
+ Post Nr. 368 
+
+ 
+don’t give your dogs arbonne fizz sticks!! ffs §pouting_face§ this is on arbonne uk’s stories now wtf!! #scam #pyramidscheme #mlmfail #antimlm #antimlmmovement #banthescam #nationalpetday
+
+ 
+
+ Classification result for Post Nr. 368: 
+1
+MLM
+
+ 
+ Post Nr. 369 
+
+ 
+one of my old posts came up on my feed today from 2 years ago, even when on holiday it was all about bloody arbonne. if only i’d known that it would be the last time for a few years till i’d be packing for a holiday again. #scam #mlmfail #antimlm #antimlmmovement #pyramidscheme #banthescam
+
+ 
+
+ Classification result for Post Nr. 369: 
+0
+non-MLM
+
+ 
+ Post Nr. 370 
+
+ 
+i used to hear the phase ‘be a product of the product’ countless times in training. here it is again from an nvp. if you do this it with literally cost $,000...which is why the consultants are the customers. #scam #mlmfail #antimlm #antimlmmovement #pyramidscheme #banthescam
+
+ 
+
+ Classification result for Post Nr. 370: 
+0
+non-MLM
+
+ 
+ Post Nr. 371 
+
+ 
+this isn’t the most shocking of posts from a consultant but i think it’s particularly sad. it looks like she only has friends that support her in her mlm now. i had people that didn’t too, you know what i did? i was still friends with them! also, i told them later they were right & i wished i’d listened to what they were trying to tell me! and yes, my upline told me not to spend time with the haters #scam #mlmfail #antimlm #antimlmmovement #pyramidscheme #banthescam
+
+ 
+
+ Classification result for Post Nr. 371: 
+0
+non-MLM
+
+ 
+ Post Nr. 372 
+
+ 
+holy fizz sticks batman! §flushed_face§ #reddit #scam #pyramidscheme #mlmfail #antimlm #antimlmmovement
+
+ 
+
+ Classification result for Post Nr. 372: 
+0
+non-MLM
+
+ 
+ Post Nr. 373 
+
+ 
+thank you to a follower for sending me this post in ‘abundance nation’ §face_with_rolling_eyes§ asking for advice so she can get people with health problems on the 30 day detox. just a little eye-opener to what happens behind the scenes.#scam #antimlm #mlmfail #antimlmmovement #pyramidscheme
+
+ 
+
+ Classification result for Post Nr. 373: 
+0
+non-MLM
+
+ 
+ Post Nr. 374 
+
+ 
+thank you to a follower for sending me this post in ‘abundance nation’ §face_with_rolling_eyes§ asking for advice so she can get people with health problems on the 30 day detox. just a little eye-opener to what happens behind the scenes.#scam #antimlm #mlmfail #antimlmmovement #pyramidscheme
+
+ 
+
+ Classification result for Post Nr. 374: 
+0
+non-MLM
+
+ 
+ Post Nr. 375 
+
+ 
+
+
+ Classification result for Post Nr. 375: 
+0
+non-MLM
+
+ 
+ Amount of undetermined posts: 0
+Amount of posts classified as MLM posts: 143 (38 percent)
+Amount of posts classified as non-MLM posts: 232(61 percent)

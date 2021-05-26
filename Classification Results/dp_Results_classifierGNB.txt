@@ -1,0 +1,1018 @@
+Classification results for file: dp_testset_nonMLM.txt
+Amount of posts analyzed: 68 
+
+
+ 
+ Post Nr. 1 
+
+i’ll be unlocking the secrets of this cartoon and what it has to do with a guy named jeff in my weekly blog post at bizarro.com. link in bio.
+.
+.
+#haha #lol #lmao #funny #laugh #joke #comic #jokes #comedy #cartoon #cartoonist #cartoonart #cartoons #cartoonstrip #bizarro #bizarrocomics #danpiraro #bizarrobypiraro #comicstrip
+
+ 
+
+ Classification result for Post Nr. 1: 
+0
+non-MLM
+
+ 
+ Post Nr. 2 
+
+ 
+the latest episode of peyote cowboy, “suspended sentence,” has just posted and it packs a punch. see it at peyotecowboy.net/episodes/
+
+ 
+
+ Classification result for Post Nr. 2: 
+0
+non-MLM
+
+ 
+ Post Nr. 3 
+
+ 
+which best describes the frequency with which these words are being heard: never, seldom, now ’n’ again, all the golldern time?
+.
+.
+#haha #lol #lmao #funny #laugh #joke #comic #jokes #comedy #cartoon #cartoonist #cartoonart #cartoons #cartoonstrip #bizarro #bizarrocomics #danpiraro #bizarrobypiraro #comicstrip
+
+ 
+
+ Classification result for Post Nr. 3: 
+0
+non-MLM
+
+ 
+ Post Nr. 4 
+
+ 
+come to think of it, i’ve known four different people named chuck gundersson and three of them were women.
+.
+.
+#haha #lol #lmao #funny #laugh #joke #comic #jokes #comedy #cartoon #cartoonist #cartoonart #cartoons #cartoonstrip #bizarro #bizarrocomics #danpiraro #bizarrobypiraro #comicstrip
+
+ 
+
+ Classification result for Post Nr. 4: 
+0
+non-MLM
+
+ 
+ Post Nr. 5 
+
+ 
+like driving straight into a wall?
+.
+.
+#haha #lol #lmao #funny #laugh #joke #comic #jokes #comedy #cartoon #cartoonist #cartoonart #cartoons #cartoonstrip #bizarro #bizarrocomics #danpiraro #bizarrobypiraro #comicstrip
+
+ 
+
+ Classification result for Post Nr. 5: 
+0
+non-MLM
+
+ 
+ Post Nr. 6 
+
+ 
+my dogs get it with peanut butter. they’re both street dogs, no need to spoil them.
+.
+.
+#haha #lol #lmao #funny #laugh #joke #comic #jokes #comedy #cartoon #cartoonist #cartoonart #cartoons #cartoonstrip #bizarro #bizarrocomics #danpiraro #bizarrobypiraro #comicstrip
+
+ 
+
+ Classification result for Post Nr. 6: 
+0
+non-MLM
+
+ 
+ Post Nr. 7 
+
+ 
+top secret or just kinky? #tbt
+.
+.
+#haha #lol #lmao #funny #laugh #joke #comic #jokes #comedy #cartoon #cartoonist #cartoonart #cartoons #cartoonstrip #bizarro #bizarrocomics #danpiraro #bizarrobypiraro #comicstrip
+
+ 
+
+ Classification result for Post Nr. 7: 
+0
+non-MLM
+
+ 
+ Post Nr. 8 
+
+ 
+you can always tell when this guy has to fart.
+.
+.
+#haha #lol #lmao #funny #laugh #joke #comic #jokes #comedy #cartoon #cartoonist #cartoonart #cartoons #cartoonstrip #bizarro #bizarrocomics #danpiraro #bizarrobypiraro #comicstrip
+
+ 
+
+ Classification result for Post Nr. 8: 
+0
+non-MLM
+
+ 
+ Post Nr. 9 
+
+ 
+both wayno and i want you to know that this cartoon in no way means to discount the seriousness of lariat-related injuries.
+.
+.
+#haha #lol #lmao #funny #laugh #joke #comic #jokes #comedy #cartoon #cartoonist #cartoonart #cartoons #cartoonstrip #bizarro #bizarrocomics #danpiraro #bizarrobypiraro #comicstrip
+
+ 
+
+ Classification result for Post Nr. 9: 
+0
+non-MLM
+
+ 
+ Post Nr. 10 
+
+ 
+i’ll have a lot more to say about the circle of life and death on my weekly blog post at bizarro.com. link in bio.
+.
+.
+#haha #lol #lmao #funny #laugh #joke #comic #jokes #comedy #cartoon #cartoonist #cartoonart #cartoons #cartoonstrip #bizarro #bizarrocomics #danpiraro #bizarrobypiraro #comicstrip
+
+ 
+
+ Classification result for Post Nr. 10: 
+0
+non-MLM
+
+ 
+ Post Nr. 11 
+
+ 
+ignoring the political angle of this, i’ll just say watch “my octopus teacher” on netflix. it’s a documentary. if it doesn’t improve your life, you may already be dead inside.
+.
+.
+#haha #lol #lmao #funny #laugh #joke #comic #jokes #comedy #cartoon #cartoonist #cartoonart #cartoons #cartoonstrip #bizarro #bizarrocomics #danpiraro #bizarrobypiraro #comicstrip
+
+ 
+
+ Classification result for Post Nr. 11: 
+0
+non-MLM
+
+ 
+ Post Nr. 12 
+
+ 
+and a trigger warning to anyone who has problems with white women.
+.
+.
+#haha #lol #lmao #funny #laugh #joke #comic #jokes #comedy #cartoon #cartoonist #cartoonart #cartoons #cartoonstrip #bizarro #bizarrocomics #danpiraro #bizarrobypiraro #comicstrip
+
+ 
+
+ Classification result for Post Nr. 12: 
+0
+non-MLM
+
+ 
+ Post Nr. 13 
+
+ 
+and a trigger warning to anyone who has problems with white women.
+.
+.
+#haha #lol #lmao #funny #laugh #joke #comic #jokes #comedy #cartoon #cartoonist #cartoonart #cartoons #cartoonstrip #bizarro #bizarrocomics #danpiraro #bizarrobypiraro #comicstrip
+
+ 
+
+ Classification result for Post Nr. 13: 
+0
+non-MLM
+
+ 
+ Post Nr. 14 
+
+ 
+and a trigger warning to anyone who has problems with white women.
+.
+.
+#haha #lol #lmao #funny #laugh #joke #comic #jokes #comedy #cartoon #cartoonist #cartoonart #cartoons #cartoonstrip #bizarro #bizarrocomics #danpiraro #bizarrobypiraro #comicstrip
+
+ 
+
+ Classification result for Post Nr. 14: 
+0
+non-MLM
+
+ 
+ Post Nr. 15 
+
+ 
+and stop calling me “pretty boy”. #tbt
+.
+.
+#haha #lol #lmao #funny #laugh #joke #comic #jokes #comedy #cartoon #cartoonist #cartoonart #cartoons #cartoonstrip #bizarro #bizarrocomics #danpiraro #bizarrobypiraro #comicstrip
+
+ 
+
+ Classification result for Post Nr. 15: 
+0
+non-MLM
+
+ 
+ Post Nr. 16 
+
+ 
+the bzfd rescue squad is always available for any surreal domestic emergencies.
+.
+.
+#haha #lol #lmao #funny #laugh #joke #comic #jokes #comedy #cartoon #cartoonist #cartoonart #cartoons #cartoonstrip #bizarro #bizarrocomics #danpiraro #bizarrobypiraro #comicstrip
+
+ 
+
+ Classification result for Post Nr. 16: 
+0
+non-MLM
+
+ 
+ Post Nr. 17 
+
+ 
+yeah, he’s kind of an astralhole.
+.
+.
+#haha #lol #lmao #funny #laugh #joke #comic #jokes #comedy #cartoon #cartoonist #cartoonart #cartoons #cartoonstrip #bizarro #bizarrocomics #danpiraro #bizarrobypiraro #comicstrip
+
+ 
+
+ Classification result for Post Nr. 17: 
+0
+non-MLM
+
+ 
+ Post Nr. 18 
+
+ 
+for more vaguely-romantic valentine’s day cartoons, see my weekly blog post at bizarro.com. link in bio.
+.
+.
+#haha #lol #lmao #funny #laugh #joke #comic #jokes #comedy #cartoon #cartoonist #cartoonart #cartoons #cartoonstrip #bizarro #bizarrocomics #danpiraro #bizarrobypiraro #comicstrip
+
+ 
+
+ Classification result for Post Nr. 18: 
+0
+non-MLM
+
+ 
+ Post Nr. 19 
+
+ 
+may i have an extra terrestrial in case i lose one?
+.
+.
+#haha #lol #lmao #funny #laugh #joke #comic #jokes #comedy #cartoon #cartoonist #cartoonart #cartoons #cartoonstrip #bizarro #bizarrocomics #danpiraro #bizarrobypiraro #comicstrip
+
+ 
+
+ Classification result for Post Nr. 19: 
+0
+non-MLM
+
+ 
+ Post Nr. 20 
+
+ 
+may i have an extra terrestrial in case i lose one?
+.
+.
+#haha #lol #lmao #funny #laugh #joke #comic #jokes #comedy #cartoon #cartoonist #cartoonart #cartoons #cartoonstrip #bizarro #bizarrocomics #danpiraro #bizarrobypiraro #comicstrip
+
+ 
+
+ Classification result for Post Nr. 20: 
+0
+non-MLM
+
+ 
+ Post Nr. 21 
+
+ 
+the pickle hub features open mic improvisational jazz every tuesday.
+.
+.
+#haha #lol #lmao #funny #laugh #joke #comic #jokes #comedy #cartoon #cartoonist #cartoonart #cartoons #cartoonstrip #bizarro #bizarrocomics #danpiraro #bizarrobypiraro #comicstrip
+
+ 
+
+ Classification result for Post Nr. 21: 
+0
+non-MLM
+
+ 
+ Post Nr. 22 
+
+ 
+i am suddenly reminded that the bizarro shop offers fun koozies for all your beverage needs. link in bio, then hit shop.
+.
+.
+#haha #lol #lmao #funny #laugh #joke #comic #jokes #comedy #cartoon #cartoonist #cartoonart #cartoons #cartoonstrip #bizarro #bizarrocomics #danpiraro #bizarrobypiraro #comicstrip
+
+ 
+
+ Classification result for Post Nr. 22: 
+0
+non-MLM
+
+ 
+ Post Nr. 23 
+
+ 
+it could also be the harpoons you keep throwing.
+.
+.
+#haha #lol #lmao #funny #laugh #joke #comic #jokes #comedy #cartoon #cartoonist #cartoonart #cartoons #cartoonstrip #bizarro #bizarrocomics #danpiraro #bizarrobypiraro #comicstrip
+
+ 
+
+ Classification result for Post Nr. 23: 
+0
+non-MLM
+
+ 
+ Post Nr. 24 
+
+ 
+what about a peep?
+.
+.
+#haha #lol #lmao #funny #laugh #joke #comic #jokes #comedy #cartoon #cartoonist #cartoonart #cartoons #cartoonstrip #bizarro #bizarrocomics #danpiraro #bizarrobypiraro #comicstrip
+
+ 
+
+ Classification result for Post Nr. 24: 
+0
+non-MLM
+
+ 
+ Post Nr. 25 
+
+ 
+more a more in-depth discussion of breeding, join me in my weekly blog post at bizarro.com. link in bio.
+.
+.
+#haha #lol #lmao #funny #laugh #joke #comic #jokes #comedy #cartoon #cartoonist #cartoonart #cartoons #cartoonstrip #bizarro #bizarrocomics #danpiraro #bizarrobypiraro #comicstrip
+
+ 
+
+ Classification result for Post Nr. 25: 
+0
+non-MLM
+
+ 
+ Post Nr. 26 
+
+ 
+now if you can just figure out how to make it out of bread dough and fry it, civilization can begin.
+.
+.
+#haha #lol #lmao #funny #laugh #joke #comic #jokes #comedy #cartoon #cartoonist #cartoonart #cartoons #cartoonstrip #bizarro #bizarrocomics #danpiraro #bizarrobypiraro #comicstrip
+
+ 
+
+ Classification result for Post Nr. 26: 
+0
+non-MLM
+
+ 
+ Post Nr. 27 
+
+ 
+make sure they’re not actually 8-track tapes.
+.
+.
+#haha #lol #lmao #funny #laugh #joke #comic #jokes #comedy #cartoon #cartoonist #cartoonart #cartoons #cartoonstrip #bizarro #bizarrocomics #danpiraro #bizarrobypiraro #comicstrip
+
+ 
+
+ Classification result for Post Nr. 27: 
+0
+non-MLM
+
+ 
+ Post Nr. 28 
+
+ 
+plying them with drinks is key.
+.
+.
+#haha #lol #lmao #funny #laugh #joke #comic #jokes #comedy #cartoon #cartoonist #cartoonart #cartoons #cartoonstrip #bizarro #bizarrocomics #danpiraro #bizarrobypiraro #comicstrip
+
+ 
+
+ Classification result for Post Nr. 28: 
+0
+non-MLM
+
+ 
+ Post Nr. 29 
+
+ 
+plying them with drinks is key.
+.
+.
+#haha #lol #lmao #funny #laugh #joke #comic #jokes #comedy #cartoon #cartoonist #cartoonart #cartoons #cartoonstrip #bizarro #bizarrocomics #danpiraro #bizarrobypiraro #comicstrip
+
+ 
+
+ Classification result for Post Nr. 29: 
+0
+non-MLM
+
+ 
+ Post Nr. 30 
+
+ 
+now let’s learn how to reset your password. #tbt
+.
+.
+#haha #lol #lmao #funny #laugh #joke #comic #jokes #comedy #cartoon #cartoonist #cartoonart #cartoons #cartoonstrip #bizarro #bizarrocomics #danpiraro #bizarrobypiraro #comicstrip
+
+ 
+
+ Classification result for Post Nr. 30: 
+0
+non-MLM
+
+ 
+ Post Nr. 31 
+
+ 
+i just want to see his tiny bagpipes.
+.
+.
+#haha #lol #lmao #funny #laugh #joke #comic #jokes #comedy #cartoon #cartoonist #cartoonart #cartoons #cartoonstrip #bizarro #bizarrocomics #danpiraro #bizarrobypiraro #comicstrip
+
+ 
+
+ Classification result for Post Nr. 31: 
+0
+non-MLM
+
+ 
+ Post Nr. 32 
+
+ 
+reproduction is perhaps the world’s most complex, time-consuming, and deceiving hobby.
+.
+.
+#haha #lol #lmao #funny #laugh #joke #comic #jokes #comedy #cartoon #cartoonist #cartoonart #cartoons #cartoonstrip #bizarro #bizarrocomics #danpiraro #bizarrobypiraro #comicstrip
+
+ 
+
+ Classification result for Post Nr. 32: 
+0
+non-MLM
+
+ 
+ Post Nr. 33 
+
+ 
+when this comic appears in newspapers, it’s almost trompe l’oeil. trust me. i’ll talk more about it in my weekly blog post at bizarro.com. link in bio, baby.
+.
+.
+#haha #lol #lmao #funny #laugh #joke #comic #jokes #comedy #cartoon #cartoonist #cartoonart #cartoons #cartoonstrip #bizarro #bizarrocomics #danpiraro #bizarrobypiraro #comicstrip
+
+ 
+
+ Classification result for Post Nr. 33: 
+0
+non-MLM
+
+ 
+ Post Nr. 34 
+
+ 
+when you just can’t leave a big enough footprint.
+.
+.
+#haha #lol #lmao #funny #laugh #joke #comic #jokes #comedy #cartoon #cartoonist #cartoonart #cartoons #cartoonstrip #bizarro #bizarrocomics #danpiraro #bizarrobypiraro #comicstrip
+
+ 
+
+ Classification result for Post Nr. 34: 
+0
+non-MLM
+
+ 
+ Post Nr. 35 
+
+ 
+i would never be a coroner but if i was, i would say this.
+.
+.
+#haha #lol #lmao #funny #laugh #joke #comic #jokes #comedy #cartoon #cartoonist #cartoonart #cartoons #cartoonstrip #bizarro #bizarrocomics #danpiraro #bizarrobypiraro #comicstrip
+
+ 
+
+ Classification result for Post Nr. 35: 
+0
+non-MLM
+
+ 
+ Post Nr. 36 
+
+ 
+at his current rate of clown cartoon production, wayno should beat the current record sometime in late summer.
+.
+.
+#haha #lol #lmao #funny #laugh #joke #comic #jokes #comedy #cartoon #cartoonist #cartoonart #cartoons #cartoonstrip #bizarro #bizarrocomics #danpiraro #bizarrobypiraro #comicstrip
+
+ 
+
+ Classification result for Post Nr. 36: 
+0
+non-MLM
+
+ 
+ Post Nr. 37 
+
+ 
+one of the secret symbols is rather amusingly designed.
+.
+.
+#haha #lol #lmao #funny #laugh #joke #comic #jokes #comedy #cartoon #cartoonist #cartoonart #cartoons #cartoonstrip #bizarro #bizarrocomics #danpiraro #bizarrobypiraro #comicstrip
+
+ 
+
+ Classification result for Post Nr. 37: 
+0
+non-MLM
+
+ 
+ Post Nr. 38 
+
+ 
+one of the secret symbols is rather amusingly designed.
+.
+.
+#haha #lol #lmao #funny #laugh #joke #comic #jokes #comedy #cartoon #cartoonist #cartoonart #cartoons #cartoonstrip #bizarro #bizarrocomics #danpiraro #bizarrobypiraro #comicstrip
+
+ 
+
+ Classification result for Post Nr. 38: 
+0
+non-MLM
+
+ 
+ Post Nr. 39 
+
+ 
+if someone is forcing you to say this, blink three times.
+.
+.
+#haha #lol #lmao #funny #laugh #joke #comic #jokes #comedy #cartoon #cartoonist #cartoonart #cartoons #cartoonstrip #bizarro #bizarrocomics #danpiraro #bizarrobypiraro #comicstrip
+
+ 
+
+ Classification result for Post Nr. 39: 
+0
+non-MLM
+
+ 
+ Post Nr. 40 
+
+ 
+cardboard is an invaluable parenting resource.
+.
+.
+#haha #lol #lmao #funny #laugh #joke #comic #jokes #comedy #cartoon #cartoonist #cartoonart #cartoons #cartoonstrip #bizarro #bizarrocomics #danpiraro #bizarrobypiraro #comicstrip
+
+ 
+
+ Classification result for Post Nr. 40: 
+0
+non-MLM
+
+ 
+ Post Nr. 41 
+
+ 
+i’ll be discussing other fascinating abilities of chickens on my weekly blog post at bizarro.com. link in bio.
+.
+.
+#haha #lol #lmao #funny #laugh #joke #comic #jokes #comedy #cartoon #cartoonist #cartoonart #cartoons #cartoonstrip #bizarro #bizarrocomics #danpiraro #bizarrobypiraro #comicstrip
+
+ 
+
+ Classification result for Post Nr. 41: 
+0
+non-MLM
+
+ 
+ Post Nr. 42 
+
+ 
+i’ve tried to teach my bedclothes how to play various card games to no avail.
+.
+.
+#haha #lol #lmao #funny #laugh #joke #comic #jokes #comedy #cartoon #cartoonist #cartoonart #cartoons #cartoonstrip #bizarro #bizarrocomics #danpiraro #bizarrobypiraro #comicstrip
+
+ 
+
+ Classification result for Post Nr. 42: 
+0
+non-MLM
+
+ 
+ Post Nr. 43 
+
+ 
+i’ve tried to teach my bedclothes how to play various card games to no avail.
+.
+.
+#haha #lol #lmao #funny #laugh #joke #comic #jokes #comedy #cartoon #cartoonist #cartoonart #cartoons #cartoonstrip #bizarro #bizarrocomics #danpiraro #bizarrobypiraro #comicstrip
+
+ 
+
+ Classification result for Post Nr. 43: 
+0
+non-MLM
+
+ 
+ Post Nr. 44 
+
+ 
+i, for one, am somewhat nostalgic for the days when crackpots like alex jones were relegated to shouting into a megaphone on a street corner and treated with the seriousness it demanded.
+.
+.
+#haha #lol #lmao #funny #laugh #joke #comic #jokes #comedy #cartoon #cartoonist #cartoonart #cartoons #cartoonstrip #bizarro #bizarrocomics #danpiraro #bizarrobypiraro #comicstrip
+
+ 
+
+ Classification result for Post Nr. 44: 
+0
+non-MLM
+
+ 
+ Post Nr. 45 
+
+ 
+he’s probably going to take a selfie with a clownfish.
+.
+.
+#haha #lol #lmao #funny #laugh #joke #comic #jokes #comedy #cartoon #cartoonist #cartoonart #cartoons #cartoonstrip #bizarro #bizarrocomics #danpiraro #bizarrobypiraro #comicstrip
+
+ 
+
+ Classification result for Post Nr. 45: 
+0
+non-MLM
+
+ 
+ Post Nr. 46 
+
+ 
+they made a movie out of the book so i’m hoping somebody makes a movie out of this cartoon. fingers crossed! #tbt
+.
+.
+#haha #lol #lmao #funny #laugh #joke #comic #jokes #comedy #cartoon #cartoonist #cartoonart #cartoons #cartoonstrip #bizarro #bizarrocomics #danpiraro #bizarrobypiraro #comicstrip
+
+ 
+
+ Classification result for Post Nr. 46: 
+0
+non-MLM
+
+ 
+ Post Nr. 47 
+
+ 
+one award short of an obep. (oscar, bunny, eyeball, pipe)
+.
+.
+#haha #lol #lmao #funny #laugh #joke #comic #jokes #comedy #cartoon #cartoonist #cartoonart #cartoons #cartoonstrip #bizarro #bizarrocomics #danpiraro #bizarrobypiraro #comicstrip
+
+ 
+
+ Classification result for Post Nr. 47: 
+0
+non-MLM
+
+ 
+ Post Nr. 48 
+
+ 
+you may laugh now but you do not want to run into these guys when they’ve been snorting rainbows.
+.
+.
+#haha #lol #lmao #funny #laugh #joke #comic #jokes #comedy #cartoon #cartoonist #cartoonart #cartoons #cartoonstrip #bizarro #bizarrocomics #danpiraro #bizarrobypiraro #comicstrip
+
+ 
+
+ Classification result for Post Nr. 48: 
+0
+non-MLM
+
+ 
+ Post Nr. 49 
+
+ 
+i’ll be talking about the history of this cartoon and why it’s important on my blog this week at bizarro.com. link in bio.
+.
+.
+#haha #lol #lmao #funny #laugh #joke #comic #jokes #comedy #cartoon #cartoonist #cartoonart #cartoons #cartoonstrip #bizarro #bizarrocomics #danpiraro #bizarrobypiraro #comicstrip
+
+ 
+
+ Classification result for Post Nr. 49: 
+0
+non-MLM
+
+ 
+ Post Nr. 50 
+
+ 
+i could use some tips on arthrobody care.
+.
+.
+#haha #lol #lmao #funny #laugh #joke #comic #jokes #comedy #cartoon #cartoonist #cartoonart #cartoons #cartoonstrip #bizarro #bizarrocomics #danpiraro #bizarrobypiraro #comicstrip
+
+ 
+
+ Classification result for Post Nr. 50: 
+0
+non-MLM
+
+ 
+ Post Nr. 51 
+
+ 
+these were called sedan chairs and it’s why we (used to) call certain kinds of cars sedans. and if they went a long way, the dudes carrying them would “tire”. coincidence?
+.
+.
+#haha #lol #lmao #funny #laugh #joke #comic #jokes #comedy #cartoon #cartoonist #cartoonart #cartoons #cartoonstrip #bizarro #bizarrocomics #danpiraro #bizarrobypiraro #comicstrip
+
+ 
+
+ Classification result for Post Nr. 51: 
+0
+non-MLM
+
+ 
+ Post Nr. 52 
+
+ 
+i wonder if anyone will accuse us of promoting the stereotype that all irish are seekers of enlightenment.
+.
+.
+#haha #lol #lmao #funny #laugh #joke #comic #jokes #comedy #cartoon #cartoonist #cartoonart #cartoons #cartoonstrip #bizarro #bizarrocomics #danpiraro #bizarrobypiraro #comicstrip
+
+ 
+
+ Classification result for Post Nr. 52: 
+0
+non-MLM
+
+ 
+ Post Nr. 53 
+
+ 
+this week on "tinker tailor plumber priest”...
+.
+.
+#haha #lol #lmao #funny #laugh #joke #comic #jokes #comedy #cartoon #cartoonist #cartoonart #cartoons #cartoonstrip #bizarro #bizarrocomics #danpiraro #bizarrobypiraro #comicstrip
+
+ 
+
+ Classification result for Post Nr. 53: 
+0
+non-MLM
+
+ 
+ Post Nr. 54 
+
+ 
+i saw this joke coming as soon as i walked through the dorothy. #tbt
+.
+.
+#haha #lol #lmao #funny #laugh #joke #comic #jokes #comedy #cartoon #cartoonist #cartoonart #cartoons #cartoonstrip #bizarro #bizarrocomics #danpiraro #bizarrobypiraro #comicstrip
+
+ 
+
+ Classification result for Post Nr. 54: 
+0
+non-MLM
+
+ 
+ Post Nr. 55 
+
+ 
+between meals of the brains of living humans, zombies snack on smartfood popcorn.
+.
+.
+#haha #lol #lmao #funny #laugh #joke #comic #jokes #comedy #cartoon #cartoonist #cartoonart #cartoons #cartoonstrip #bizarro #bizarrocomics #danpiraro #bizarrobypiraro #comicstrip
+
+ 
+
+ Classification result for Post Nr. 55: 
+0
+non-MLM
+
+ 
+ Post Nr. 56 
+
+ 
+getting skewered by an insult beats the alternative.
+.
+.
+#haha #lol #lmao #funny #laugh #joke #comic #jokes #comedy #cartoon #cartoonist #cartoonart #cartoons #cartoonstrip #bizarro #bizarrocomics #danpiraro #bizarrobypiraro #comicstrip
+
+ 
+
+ Classification result for Post Nr. 56: 
+0
+non-MLM
+
+ 
+ Post Nr. 57 
+
+ 
+whatever you do, don’t make him mad.
+.
+.
+#haha #lol #lmao #funny #laugh #joke #comic #jokes #comedy #cartoon #cartoonist #cartoonart #cartoons #cartoonstrip #bizarro #bizarrocomics #danpiraro #bizarrobypiraro #comicstrip
+
+ 
+
+ Classification result for Post Nr. 57: 
+0
+non-MLM
+
+ 
+ Post Nr. 58 
+
+ 
+a new episode of my graphic novel, peyote cowboy has taken flight. it’s called “bird-saved” and you can point your seeballs at it at peyotecowboy.net. 
+ 
+#graphicnovel #comicbooks #oldwest #surrealism #bizarro
+
+ 
+
+ Classification result for Post Nr. 58: 
+0
+non-MLM
+
+ 
+ Post Nr. 59 
+
+ 
+this guy is the poster child for white privilege.
+.
+.
+#haha #lol #lmao #funny #laugh #joke #comic #jokes #comedy #cartoon #cartoonist #cartoonart #cartoons #cartoonstrip #bizarro #bizarrocomics #danpiraro #bizarrobypiraro #comicstrip
+
+ 
+
+ Classification result for Post Nr. 59: 
+0
+non-MLM
+
+ 
+ Post Nr. 60 
+
+ 
+i’m not exactly sure of my blood type but i’m almost positive i’m negative.
+.
+.
+#haha #lol #lmao #funny #laugh #joke #comic #jokes #comedy #cartoon #cartoonist #cartoonart #cartoons #cartoonstrip #bizarro #bizarrocomics #danpiraro #bizarrobypiraro #comicstrip
+
+ 
+
+ Classification result for Post Nr. 60: 
+0
+non-MLM
+
+ 
+ Post Nr. 61 
+
+ 
+from the sequel to my octopus teacher, my octopus harrasser.
+.
+.
+#haha #lol #lmao #funny #laugh #joke #comic #jokes #comedy #cartoon #cartoonist #cartoonart #cartoons #cartoonstrip #bizarro #bizarrocomics #danpiraro #bizarrobypiraro #comicstrip
+
+ 
+
+ Classification result for Post Nr. 61: 
+0
+non-MLM
+
+ 
+ Post Nr. 62 
+
+ 
+i think the history of the arrow-pointed tail on images of the devil is an interesting one...
+.
+.
+#haha #lol #lmao #funny #laugh #joke #comic #jokes #comedy #cartoon #cartoonist #cartoonart #cartoons #cartoonstrip #bizarro #bizarrocomics #danpiraro #bizarrobypiraro #comicstrip
+
+ 
+
+ Classification result for Post Nr. 62: 
+0
+non-MLM
+
+ 
+ Post Nr. 63 
+
+ 
+the track team is hilarious. #tbt
+.
+.
+#haha #lol #lmao #funny #laugh #joke #comic #jokes #comedy #cartoon #cartoonist #cartoonart #cartoons #cartoonstrip #bizarro #bizarrocomics #danpiraro #bizarrobypiraro #comicstrip
+
+ 
+
+ Classification result for Post Nr. 63: 
+0
+non-MLM
+
+ 
+ Post Nr. 64 
+
+ 
+stop me if you’ve heard this one—an archer walks into a bar…
+.
+.
+#haha #lol #lmao #funny #laugh #joke #comic #jokes #comedy #cartoon #cartoonist #cartoonart #cartoons #cartoonstrip #bizarro #bizarrocomics #danpiraro #bizarrobypiraro #comicstrip
+
+ 
+
+ Classification result for Post Nr. 64: 
+0
+non-MLM
+
+ 
+ Post Nr. 65 
+
+ 
+i cover mine with aluminum foil, to keep it from being controlled by government laser beams from outer space, of course.
+.
+.
+#haha #lol #lmao #funny #laugh #joke #comic #jokes #comedy #cartoon #cartoonist #cartoonart #cartoons #cartoonstrip #bizarro #bizarrocomics #danpiraro #bizarrobypiraro #comicstrip
+
+ 
+
+ Classification result for Post Nr. 65: 
+0
+non-MLM
+
+ 
+ Post Nr. 66 
+
+ 
+i’ll be divulging more cover-ups at skywalker ranch in my weekly blog post at bizarro.com. link in bio.
+.
+.
+#starwars #haha #lol #lmao #funny #laugh #joke #comic #jokes #comedy #cartoon #cartoonist #cartoonart #cartoons #cartoonstrip #bizarro #bizarrocomics #danpiraro #bizarrobypiraro #comicstrip
+
+ 
+
+ Classification result for Post Nr. 66: 
+0
+non-MLM
+
+ 
+ Post Nr. 67 
+
+ 
+i’ll be divulging more cover-ups at skywalker ranch in my weekly blog post at bizarro.com. link in bio.
+.
+.
+#starwars #haha #lol #lmao #funny #laugh #joke #comic #jokes #comedy #cartoon #cartoonist #cartoonart #cartoons #cartoonstrip #bizarro #bizarrocomics #danpiraro #bizarrobypiraro #comicstrip
+
+ 
+
+ Classification result for Post Nr. 67: 
+0
+non-MLM
+
+ 
+ Post Nr. 68 
+
+ 
+
+
+ Classification result for Post Nr. 68: 
+1
+MLM
+
+ 
+ Amount of undetermined posts: 0
+Amount of posts classified as MLM posts: 1 (1 percent)
+Amount of posts classified as non-MLM posts: 67(98 percent)
